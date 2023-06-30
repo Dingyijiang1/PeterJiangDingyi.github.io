@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+Currently, I am a Bechelor in Tianjin University. I will graduate from College of Intelligence and Computing, Tianjin University (天津大学人工智能学院)<a href='http://cic.tju.edu.cn/english/home.htm'> with a Artificial Intelligence bachelor’s degree in June of 2024. During my Bachelor's time, I got an exchange experience from the Department of Computer Science and Technology, The Hong Kong University of Science and Technology (香港科技大学计算机科学与技术学院) in my thired year.
+
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
