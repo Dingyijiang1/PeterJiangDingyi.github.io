@@ -25,8 +25,13 @@ My interest research area encompasses the domain of AI, including NLP, GAN, CV, 
 # 🔥 News
 - *2023.06*: &nbsp;🎉🎉 Commence an internship at Frontis Ltd., Beijing in the capacity of a Large Language Model Lab intern!
 - *2023.05*: &nbsp;🎉🎉 Complete a one-semester academic exchange program at Hong Kong University of Science and Technology (HKUST)!
-- *2023.05*: &nbsp;🎉🎉 Finishe our Innovative project titled "Intelligent Visualization of the Attributes of the Global Burden of Disease," which has been recognized with a municipal award.
-- *2023.05*: &nbsp;🎉🎉 Get a full score in the class "
+- *2023.05*: &nbsp;🎉🎉 Finish our Innovative project titled *Intelligent Visualization of the Attributes of the Global Burden of Disease*, which has been recognized with a municipal award!
+- *2023.05*: &nbsp;🎉🎉 Achieved a full score on the final project presentation *Improvement of the state-of-the-art graph neural transformer model* for the postgraduate course *Advanced Deep Learning Architectures and their Applications* with groupmate Martin Rektoris, instructed by Dr. Qifeng Chen at (HKUST)!
+- *2023.01*: &nbsp;🎉🎉 Begin my academic exchange program at HKUST. I enrolled AI-related coursed, including undergraduate course *Large-Scale Deep Perception, Localization, and Planning for Autonomous Vehicles*and Postgraduate courses *Advanced Deep Learning Architectures and their Applications*, *Computer Vision*.
+- *2022.12*: &nbsp;🎉🎉 Received a nomination to attend an academic exchange program at HKUST. It is an exceptional privilege to be one of the two nominees from Tianjin University!
+- *2022.09*: &nbsp;🎉🎉 Become a  research assistant of the "Intelligent Fire Protection" project led by Prof. Liu Yang at Tianjin University. In this project, I am responsible for developing AI algorithms.
+- *2022.04*: &nbsp;🎉🎉 Appointed as the leader of the "Intelligent Visualization of the Attributes of the Global Burden of Disease" innovative project, which is superivised by Dr Jie Li.
+- *2022.04*: &nbsp;🎉🎉 Joined the Visualization Lab at Tianjin University, which is under the supervision of Dr. Jie Li.
 
 # 📝 Publications 
 
