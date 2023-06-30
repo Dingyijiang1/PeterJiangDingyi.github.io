@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Dingyi Jiang"
+title                    : "Dingyi Jiang (Peter)"
 description              : "He who is an AI major Bachelor has strong motivation towards Deep learning and AIGC."
 repository               : "Peter1J/Peter1J.github.io"
 google_scholar_stats_use_cdn : False
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Dingyi Jiang"
+  name             : "Dingyi Jiang (Peter)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Tianjin University, HKUST"
   location         : "Tianjin, China"
