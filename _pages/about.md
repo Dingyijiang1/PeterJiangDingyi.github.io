@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currently, I am a Bechelor in Tianjin University. I will graduate from College of Intelligence and Computing, Tianjin University (天津大学人工智能学院)<a href='http://cic.tju.edu.cn/english/home.htm'> with a Artificial Intelligence bachelor’s degree in June of 2024. During my Bachelor's time, I got an exchange experience from the Department of Computer Science and Technology, The Hong Kong University of Science and Technology (香港科技大学计算机科学与技术学院) in my thired year.
+Presently, I am pursuing my undergraduate studies at Tianjin University, where I am enrolled in <a href='http://cic.tju.edu.cn/english/home.htm'>the College of Intelligence and Computing(天津大学智能与计算学部)</a>. I anticipate completing my Bachelor's degree in Artificial Intelligence by June 2024. Notably, I had the privilege of participating in an academic exchange program during my third year at <a href='https://cse.hkust.edu.hk/'>the Department of Computer Science and Technology at The Hong Kong University of Science and Technology(香港科技大学计算机科学与技术学院)</a>.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest covers the domain of Deep Neural Network, including NLP, AIGC and CV. During my undergraduate studies in Artificial Intelligence at Tianjin University, I embarked on a journey of academic exploration and practical application. Through coursework, research projects, and collaborations, I have gained substantial knowledge in the design, implementation, and optimization of Deep Neural Networks. I have successfully applied these techniques to solve complex problems in GNN (Graph Neural Network), Generative AI, and CV (Computer Vision), fostering my fascination for these fields.
 
 
 # 🔥 News
