@@ -17,14 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Presently, I am pursuing my undergraduate studies at Tianjin University, where I am enrolled in <a href='http://cic.tju.edu.cn/english/home.htm'>the College of Intelligence and Computing(天津大学智能与计算学部)</a>. I anticipate completing my Bachelor's degree in Artificial Intelligence by June 2024. Notably, I had the privilege of participating in an academic exchange program during my third year at <a href='https://cse.hkust.edu.hk/'>the Department of Computer Science and Technology at The Hong Kong University of Science and Technology(香港科技大学计算机科学与技术学院)</a>.
+Presently, I am pursuing my undergraduate studies at Tianjin University, where I am enrolled in <a href='http://cic.tju.edu.cn/english/home.htm'>the College of Intelligence and Computing(天津大学智能与计算学部)</a>. I anticipate completing my Bachelor's degree in Artificial Intelligence by June 2024. Notably, I had the privilege of participating in an academic exchange program during my third year at <a href='https://cse.hkust.edu.hk/'>the Department of Computer Science and Technology at The Hong Kong University of Science and Technology(HKUST, 香港科技大学计算机科学与技术学院)</a>.
 
-My area of research interest encompasses the domain of Deep Neural Networks, including Natural Language Processing (NLP), Generative Artificial Intelligence (AI), Computer Vision (CV), and related areas. During my undergraduate studies in Artificial Intelligence at Tianjin University, I embarked on a journey of academic exploration and practical application. Through coursework, research projects, and collaborations, I have acquired significant knowledge in the design, implementation, and optimization of Deep Neural Networks. I have effectively employed these techniques to address intricate problems in Graph Neural Networks (GNN), Generative Artificial Intelligence, and Computer Vision, which have further deepened my fascination for these domains.
+My interest research area encompasses the domain of AI, including NLP, GAN, CV, and related areas. During my undergraduate studies in Artificial Intelligence at Tianjin University and HKUST, I embarked on a journey of academic exploration and practical application. Through coursework, research projects, and collaborations, I have acquired significant knowledge in the design, implementation, and optimization of Deep Neural Networks. I have effectively employed these techniques to address intricate problems in Graph Neural Networks (GNN), Generative Artificial Intelligence, and Computer Vision, which have further deepened my fascination for these domains.
 
 
 # 🔥 News
-- *2023.06*: &nbsp;🎉🎉 Start Interning. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.06*: &nbsp;🎉🎉 Commence an internship at Frontis Ltd., Beijing in the capacity of a Large Language Model Lab intern!
+- *2023.05*: &nbsp;🎉🎉 Complete a one-semester academic exchange program at Hong Kong University of Science and Technology (HKUST)!
+- *2023.05*: &nbsp;🎉🎉 Finishe our Innovative project titled "Intelligent Visualization of the Attributes of the Global Burden of Disease," which has been recognized with a municipal award.
+- *2023.05*: &nbsp;🎉🎉 Get a full score in the class "
 
 # 📝 Publications 
 
@@ -47,9 +49,10 @@ My area of research interest encompasses the domain of Deep Neural Networks, inc
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2021.09 - now*,  Undergraduate, Tianjin University, Artificial Intelligence Major
+- *2023.01 - 2023.06*, Exchange Student, HKUST, Computer Science Major
+- *2019.09 - 2021.06*, Undergraduate, Tianjin University, Applied Chemistry Major (Major Change)
+- 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
