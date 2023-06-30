@@ -19,11 +19,11 @@ redirect_from:
 
 Presently, I am pursuing my undergraduate studies at Tianjin University, where I am enrolled in <a href='http://cic.tju.edu.cn/english/home.htm'>the College of Intelligence and Computing(天津大学智能与计算学部)</a>. I anticipate completing my Bachelor's degree in Artificial Intelligence by June 2024. Notably, I had the privilege of participating in an academic exchange program during my third year at <a href='https://cse.hkust.edu.hk/'>the Department of Computer Science and Technology at The Hong Kong University of Science and Technology(香港科技大学计算机科学与技术学院)</a>.
 
-My research interest covers the domain of Deep Neural Network, including NLP, AIGC and CV. During my undergraduate studies in Artificial Intelligence at Tianjin University, I embarked on a journey of academic exploration and practical application. Through coursework, research projects, and collaborations, I have gained substantial knowledge in the design, implementation, and optimization of Deep Neural Networks. I have successfully applied these techniques to solve complex problems in GNN (Graph Neural Network), Generative AI, and CV (Computer Vision), fostering my fascination for these fields.
+My area of research interest encompasses the domain of Deep Neural Networks, including Natural Language Processing (NLP), Generative Artificial Intelligence (AI), Computer Vision (CV), and related areas. During my undergraduate studies in Artificial Intelligence at Tianjin University, I embarked on a journey of academic exploration and practical application. Through coursework, research projects, and collaborations, I have acquired significant knowledge in the design, implementation, and optimization of Deep Neural Networks. I have effectively employed these techniques to address intricate problems in Graph Neural Networks (GNN), Generative Artificial Intelligence, and Computer Vision, which have further deepened my fascination for these domains.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.06*: &nbsp;🎉🎉 Start Interning. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
