@@ -9,6 +9,7 @@
 title                    : "Dingyi Jiang (Peter)"
 description              : "An AI major Bachelor has strong motivation towards AI."
 repository               : "Peter1J/Peter1J.github.io"
+email                    : "djiangaf@connect.ust.hk"
 # google_scholar_stats_use_cdn : False
 
 # google analytics
@@ -28,7 +29,7 @@ author:
   employer         :
   pubmed           : 
   # googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "djiangaf@connect.ust.hk"
+  # email            : "djiangaf@connect.ust.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   whatsapp         : "+86 18698001120"
   uri              :
