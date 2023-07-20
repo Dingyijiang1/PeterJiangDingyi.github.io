@@ -21,7 +21,13 @@ redirect_from:
 
 Presently, I am an Artificial Intelligence major bachelor at Tianjin University and will graduate at 2024 summer, where I am in <a href='http://cic.tju.edu.cn/english/home.htm'>the College of Intelligence and Computing(天津大学智能与计算学部)</a>. I have several AI-related projects and internships. Notably, I participated in an exchange program during 2023 at <a href='https://cse.hkust.edu.hk/'>the Department of Computer Science and Technology at The Hong Kong University of Science and Technology(HKUST, 香港科技大学计算机科学与技术学院)</a>.
 
-My interest research area encompasses the domain of AI, including NLP, GAN, AIGC, AI fairness, AI ethic, and related areas. I believe in the future people will embrace the overall raising of Artificial Intelligence technology, especially strong Artificial Intelligence. Therefore, I think it's necessary to pursuit a PHD degree in order to get deeper insight. What's more, I believe my AI-related experiences and high motivation enable me to dive into AI research.
+My research interests lie within the realm of Artificial Intelligence (AI), such as NLP, GAN, AIGC, as well as AI fairness and ethic. I truly believe that as time progresses, people will increasingly embrace the incredible advancements in Artificial Intelligence, particularly the emergence of strong AI, which has the potential to reshape our world in profound ways.
+
+With this strong conviction in mind, I feel pursuing a PhD degree is crucial to gain deeper insights into the field. A doctoral program will provide me with the opportunity to engage in in-depth research, contributing to the ever-evolving AI landscape and making meaningful contributions to the field.
+
+What's more, I am confident that my past experiences in AI-related endeavors and my unwavering motivation will enable me to immerse myself fully in AI research. I have been involved in various AI projects, gaining valuable hands-on experience and refining my skills in AI methodologies. This, coupled with my enthusiasm for exploring new frontiers, drives my eagerness to delve into advanced AI research.
+
+Therefore, I am eager to embark on the journey of obtaining a PhD in AI, where I can passionately delve into the intricacies of the field. I envision a future where AI is used ethically and responsibly, and I hope to play a significant role in shaping this positive outcome through my contributions to the field of Artificial Intelligence.
 
 
 # 🔥 News
