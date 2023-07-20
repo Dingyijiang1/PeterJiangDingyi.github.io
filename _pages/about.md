@@ -19,9 +19,9 @@ redirect_from:
 
 # 💬Profile
 
-Presently, I am pursuing my undergraduate studies at Tianjin University and will graduate at 2024 summer, where I am in <a href='http://cic.tju.edu.cn/english/home.htm'>the College of Intelligence and Computing(天津大学智能与计算学部)</a>. I will get my Bachelor's degree in Artificial Intelligence by June 2024. Notably, I participated in an exchange program during 2023 at <a href='https://cse.hkust.edu.hk/'>the Department of Computer Science and Technology at The Hong Kong University of Science and Technology(HKUST, 香港科技大学计算机科学与技术学院)</a>.
+Presently, I am an Artificial Intelligence major bachelor at Tianjin University and will graduate at 2024 summer, where I am in <a href='http://cic.tju.edu.cn/english/home.htm'>the College of Intelligence and Computing(天津大学智能与计算学部)</a>. I have several AI-related projects and internships. Notably, I participated in an exchange program during 2023 at <a href='https://cse.hkust.edu.hk/'>the Department of Computer Science and Technology at The Hong Kong University of Science and Technology(HKUST, 香港科技大学计算机科学与技术学院)</a>.
 
-My interest research area encompasses the domain of AI, including NLP, GAN, AIGC, AI fairness, AI ethic, and related areas. I believe in the future people will embrace the overall raising of Artificial Intelligence technology, especially strong Artificial Intelligence.
+My interest research area encompasses the domain of AI, including NLP, GAN, AIGC, AI fairness, AI ethic, and related areas. I believe in the future people will embrace the overall raising of Artificial Intelligence technology, especially strong Artificial Intelligence. Therefore, I think it's necessary to pursuit a PHD degree in order to get deeper insight. What's more, I believe my AI-related experiences and high motivation enable me to dive into AI research.
 
 
 # 🔥 News
