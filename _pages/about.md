@@ -19,7 +19,7 @@ redirect_from:
 
 # 💬Profile
 
-Presently, I am an Artificial Intelligence major bachelor at Tianjin University and will graduate at 2024 summer, where I am in <a href='http://cic.tju.edu.cn/english/home.htm'>the College of Intelligence and Computing(天津大学智能与计算学部)</a>. I have several AI-related projects and internships. Notably, I participated in an exchange program during 2023 at <a href='https://cse.hkust.edu.hk/'>the Department of Computer Science and Technology at The Hong Kong University of Science and Technology(HKUST, 香港科技大学计算机科学与技术学院)</a>.
+Presently, I am an Artificial Intelligence major bachelor at Tianjin University and will graduate at 2024 summer, where I am in <a href='http://cic.tju.edu.cn/english/home.htm'>the College of Intelligence and Computing</a>(天津大学智能与计算学部). I have several AI-related projects and internships. Notably, I participated in an exchange program during 2023 at <a href='https://cse.hkust.edu.hk/'>the Department of Computer Science and Technology at HKUST</a>(香港科技大学计算机科学与技术学院).
 
 My research interests lie within the realm of Artificial Intelligence (AI), such as NLP, GAN, AIGC, as well as AI fairness and ethic. I truly believe that as time progresses, people will increasingly embrace the incredible advancements in Artificial Intelligence, particularly the emergence of strong AI, which has the potential to reshape our world in profound ways.
 
@@ -33,7 +33,7 @@ Therefore, I am eager to embark on the journey of obtaining a PhD in AI, where I
 # 🔥 News
 - *2023.06*: &nbsp;🔥🔥 Start an internship at Frontis Ltd., Beijing in the capacity of a Large Language Model Lab intern!
 - *2023.05*: &nbsp;🔥🎉 Complete my one-semester academic exchange program at HKUST!
-- *2023.05*: &nbsp;🎉🔥 Finish our Innovative project titled *Intelligent Visualization of the Attributes of the Global Burden of Disease*, which has been recognized with a municipal award!
+- *2023.05*: &nbsp;🎉🔥 Finish our college Innovative project titled *Intelligent Visualization of the Attributes of the Global Burden of Disease*, which has been recognized with a municipal award!
 - *2023.05*: &nbsp;🔥🎉 Achieved a full score on the final project presentation *Improvement of the state-of-the-art graph neural transformer model* for the postgraduate course *Advanced Deep Learning Architectures and their Applications* with groupmate Martin Rektoris, instructed by Dr. Qifeng Chen at (HKUST)!
 - *2023.01*: &nbsp;🎉🔥 Begin my academic exchange program at HKUST. I enrolled AI-related coursed, including undergraduate course *Large-Scale Deep Perception, Localization, and Planning for Autonomous Vehicles*and Postgraduate courses *Advanced Deep Learning Architectures and their Applications*, *Computer Vision*.
 - *2022.12*: &nbsp;🔥🎉 Received a nomination to attend an academic exchange program at HKUST. It is an exceptional privilege to be one of the two nominees from Tianjin University!
@@ -43,8 +43,18 @@ Therefore, I am eager to embark on the journey of obtaining a PhD in AI, where I
 
 # 📝 Rescearch Project
 
+- *2022.04 - 2023.05* Leader in Municipal College Students Innovation and Entrepreneurship Training Program， *Intelligent Visualization of the Attributes of the Global Burden of Disease*, with Professor <a href='http://geoanalytics.tju.edu.cn/jieli'>Jie Li</a>.
+  In this project, We conduct GNN to analyse similarity of diseases worldwide.
+  1. By utilizing meta-path related GNN to identify the correlation between diseases.converting the heterogeneous graph into an isomorphic graph, and then applyingdeepwalk to the isomorphic graph to obtain the representation of t-SNEdimensionality reduction visualization, a verification function can be provided.
+  2. Research visualization result:
+    https://18698001120github.io/ghdxgithub.io/embed.html
+- *2022.04 - 2023.05* Researcher in Intelligent Fire Control Project, with Professor <a href='http://cic.tju.edu.cn/faculty/yangliu/index.html'>Liu Yang</a>.
+  1. In collaboration with Shenzhen Hong Yuan Co., Ltd, a research project has beenundertaken to explore the potential of Al in the field of hazardous fire protection, This proiect seeks to utilize Al to detect high votage in order to preemptively control fires
+  2. In this undertaking, l am responsible for the comprehensive upkeep of the system which encompasses an Al algorithm and a Flask web framework, This necessitates a thorough understanding of the intricate interplay between the two components as well as the ability to identify and rectify any issues that may arise. FurthermoreI must guarantee its optimal performance (accuracy uplifted from 85% to 90%).
+- *2023.04 - 2023.05* HKUST COMP 4901v Final Project, *Transformer-based Semantic Segmentation on 3D Point Clouds for Autonomous Driving*, with Professor <a href='https://www.danxurgb.net/'> Dan XU</a>, and groupmates Martin R. Inauen, Mikhail Tsirlin.
+  We reproduced the effort of the paper <a href='https://arxiv.org/abs/2012.09164'> Point Transformer</a> and delve into the potential of self-attention networks for self-driven related 3D point cloud processing. Our study involves understanding and using self-attention layers specifically for point clouds, which serve as fundamental building blocks for constructing self-attention networks deployed in semantic scene segmentation.
 
-
+     
 # 🎖 Honors and Awards
 - *2023.05* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
