@@ -21,11 +21,13 @@ redirect_from:
 
 Presently, I am an Artificial Intelligence major bachelor at Tianjin University and will graduate at 2024 summer, where I am in <a href='http://cic.tju.edu.cn/english/home.htm'>the College of Intelligence and Computing</a>(天津大学智能与计算学部). I have several AI-related projects and internships. Notably, I participated in an exchange program during 2023 at <a href='https://cse.hkust.edu.hk/'>the Department of Computer Science and Technology at HKUST</a>(香港科技大学计算机科学与技术学院).
 
-My research interests lie within the realm of Artificial Intelligence (AI), such as NLP, GAN, AIGC, as well as AI fairness and ethic. I truly believe that as time progresses, people will increasingly embrace the incredible advancements in Artificial Intelligence, particularly the emergence of strong AI, which has the potential to reshape our world in profound ways.
+# 💬Interest and Motivation
 
-With this strong conviction in mind, I feel pursuing a PhD degree is crucial to gain deeper insights into the field. A doctoral program will provide me with the opportunity to engage in in-depth research, contributing to the ever-evolving AI landscape and making meaningful contributions to the field.
+Now I am applying for an AI-related PhD. My research interests lie within the realm of Artificial Intelligence (AI), such as NLP, GAN, AIGC, as well as AI fairness and ethic. I truly believe that as time progresses, people will increasingly embrace the incredible general AI, which has the potential to reshape our world in profound ways.
 
-What's more, I am confident that my past experiences in AI-related endeavors and my unwavering motivation will enable me to immerse myself fully in AI research. I have been involved in various AI projects, gaining valuable hands-on experience and refining my skills in AI methodologies. This, coupled with my enthusiasm for exploring new frontiers, drives my eagerness to delve into advanced AI research.
+With this strong conviction in mind, I feel pursuing a PhD degree is crucial to gain deeper insights into the field. During the doctoral program, I will have the opportunity to engage in in-depth research, contributing to the ever-evolving AI landscape and making meaningful contributions to the field.
+
+What's more, I have 2 AI-related research expriences and 2 AI-related Internships. I am confident that my past experiences in AI-related endeavors and my unwavering motivation will enable me to immerse myself fully in AI research.
 
 Therefore, I am eager to embark on the journey of obtaining a PhD in AI, where I can passionately delve into the intricacies of the field. I envision a future where AI is used ethically and responsibly, and I hope to play a significant role in shaping this positive outcome through my contributions to the field of Artificial Intelligence.
 
@@ -40,6 +42,8 @@ Therefore, I am eager to embark on the journey of obtaining a PhD in AI, where I
 - *2022.09*: &nbsp;🎉🔥 Become a  research assistant of the "Intelligent Fire Protection" project led by Prof. Liu Yang at Tianjin University. In this project, I am responsible for developing AI algorithms.
 - *2022.04*: &nbsp;🔥🎉 Appointed as the leader of the "Intelligent Visualization of the Attributes of the Global Burden of Disease" innovative project, which is superivised by Dr Jie Li.
 - *2022.04*: &nbsp;🔥🔥🎉 Joined the Visualization Lab at Tianjin University, which is under the supervision of Dr. Jie Li.
+
+<p id="1"></p>
 
 # 📝 Rescearch Project
 
