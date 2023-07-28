@@ -16,7 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+![TJU](images/TJU.png)
+![HKUST](images/HKUST.png)
 # 💬Profile
 
 Presently, I am an Artificial Intelligence major bachelor at Tianjin University and will graduate at 2024 summer, where I am in <a href='http://cic.tju.edu.cn/english/home.htm'>the College of Intelligence and Computing</a>(天津大学智能与计算学部). I have several AI-related projects and internships. Notably, I participated in an exchange program during 2023 at <a href='https://cse.hkust.edu.hk/'>the Department of Computer Science and Technology at HKUST</a>(香港科技大学计算机科学与技术学院).
@@ -61,7 +62,8 @@ Therefore, I am eager to embark on the journey of obtaining a PhD in AI, where I
      
 # 🎖 Honors and Awards
 - *2023.05* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- Additionally, during this internship, l enrolled in the Stanford Deeplearning online course (Andrew Y Ngon Coursera, where l learned about Convolutional Neural Networks (CNN), DeepNeural Networks (DNN), Mathtab, and Pytorch.
 
 # 📖 Educations
 - *2021.09 - now*,  Undergraduate, Tianjin University, Artificial Intelligence Major
@@ -78,6 +80,6 @@ Therefore, I am eager to embark on the journey of obtaining a PhD in AI, where I
   2. Conduct data analysis and data cleaning for Llama large model SFT and pretraining, including manual sampling, multi-threaded character-level processing, and quality and coherence evaluation using the Bert model.
   3. Perform benchmark evaluations and ranking for large models.
 - *2023.06 - 2023.12*, LLM Intern, [Frontis](https://frontis.cn/), China.
-  1. During this period,l became proficient in the operation of Linux on the server and the running of code on  GPU using Python.
-  2. Provide deep learning experiments and slides for Tianjin collage students. My projects included *CNN, HMM, quality assessment in speech synthesis, and the prosodic and intonation of Chinese in speech synthesis*.
-  3. Additionally, during this internship, l enrolled in the Stanford Deeplearning online course (Andrew Y Ngon Coursera, where l learned about Convolutional Neural Networks (CNN), DeepNeural Networks (DNN), Mathtab, and Pytorch.
+- 1. Provide deep learning experiments and slides for Tianjin collage students. My projects included *CNN, HMM, quality assessment in speech synthesis, and the prosodic* and *intonation of Chinese in speech synthesis*.
+- 2. During this period,l became proficient in the operation of Linux on the server and the running of code on  GPU using Python.
+  
