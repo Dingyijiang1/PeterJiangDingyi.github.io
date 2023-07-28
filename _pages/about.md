@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>   
 
-# 💬Profile
+# 💬Who am I
 
-Presently, I am an Artificial Intelligence major bachelor at Tianjin University and will graduate at 2024 summer, where I am in <a href='http://cic.tju.edu.cn/english/home.htm'>the College of Intelligence and Computing</a>(天津大学智能与计算学部). I have several AI-related projects and internships. Notably, I participated in an exchange program during 2023 at <a href='https://cse.hkust.edu.hk/'>the Department of Computer Science and Technology at HKUST</a>(香港科技大学计算机科学与技术学院).\
+Hi, I am Dingyi Jiang and go by Vincent. Presently, I am an Artificial Intelligence major bachelor at Tianjin University and will graduate at 2024 summer, where I am in <a href='http://cic.tju.edu.cn/english/home.htm'>the College of Intelligence and Computing</a>(天津大学智能与计算学部). I have several AI-related projects and internships. Notably, I participated in an exchange program during 2023 at <a href='https://cse.hkust.edu.hk/'>the Department of Computer Science and Technology at HKUST</a>(香港科技大学计算机科学与技术学院).\
 <img src="images/TJU.png" width = "100" height = "100" alt="" align=center />
 <img src="images/HKUST.png" width = "266" height = "200" alt="" align=center />  
 
-# 💬Interest and Motivation
+# 💬Why I want to be an AI Ph.D.
 
 Now I am applying for an AI-related Ph.D. My research interests lie within the realm of Artificial Intelligence (AI), such as NLP, GAN, AIGC, as well as AI fairness and ethic. I truly believe that as time progresses, people will increasingly embrace the incredible general AI, which has the potential to reshape our world in profound ways.
 
@@ -47,7 +47,7 @@ Therefore, I am eager to embark on the journey of obtaining a Ph.D. in AI, where
 
 <p id="1"></p>
 
-# 📝 Research Project
+# 📝 What Rescearchs I participated in 
 
 - *2022.04 - 2023.05* Leader in Municipal College Students Innovation and Entrepreneurship Training Program， *Intelligent Visualization of the Attributes of the Global Burden of Disease*, with Professor <a href='http://geoanalytics.tju.edu.cn/jieli'>Jie Li</a>.
   In this project, We conduct GNN to analyze the similarity of diseases worldwide.
@@ -61,28 +61,25 @@ Therefore, I am eager to embark on the journey of obtaining a Ph.D. in AI, where
   We reproduced the effort of the paper <a href='https://arxiv.org/abs/2012.09164'> Point Transformer</a> and delve into the potential of self-attention networks for self-driven related 3D point cloud processing. Our study involves understanding and using self-attention layers specifically for point clouds, which serve as fundamental building blocks for constructing self-attention networks deployed in semantic scene segmentation.
 
      
-# 🎖 Honors and Awards
+# 🎖 What Honors and Awards I have
 - *2023.05* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2023.04* MCM/ICM Honorable Mention. \
 <img src="images/MA.jpg" width = "250" height = "270" alt="" align=center />  
 - Coursera Deeplearning online course (Andrew Y Ngon) certification.\
 <img src="images/standford_online.jpg" width = "250" height = "200" alt="" align=center />  
 
-# 📖 Educations
+# 📖 My Education trajectory
 - *2021.09 - now*,  Undergraduate, Tianjin University, Artificial Intelligence Major
 - *2023.01 - 2023.06*, Exchange Student, HKUST, Computer Science Major
 - *2019.09 - 2021.06*, Undergraduate, Tianjin University, Applied Chemistry Major (Changed Major)
-- 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+  
 
-# 💻 Internships
+# 💻 My Internships 
 - *2021.06 - 2021.09*, AI Intern, [AI Cyber](https://www.aicyber.com/), China.
   1. Responsible for in-house large model fine-tuning (supervised fine-tuning) and pretraining using the Slurm cluster, K8s cluster, and Deepspeed architecture.
   2. Conduct data analysis and data cleaning for Llama large model SFT and pretraining, including manual sampling, multi-threaded character-level processing, and quality and coherence evaluation using the Bert model.
   3. Perform benchmark evaluations and ranking for large models.
 - *2023.06 - 2023.12*, LLM Intern, [Frontis](https://frontis.cn/), China.
-- 1. Provide deep learning experiments and slides for Tianjin collage students. My projects included *CNN, HMM, quality assessment in speech synthesis, and the prosodic* and *intonation of Chinese in speech synthesis*.
+- 1. Provide deep learning experiments and slides for Tianjin college students. My projects included *CNN, HMM, quality assessment in speech synthesis, and the prosodic* and *intonation of Chinese in speech synthesis*.
 - 2. During this period,l became proficient in the operation of Linux on the server and the running of code on  GPU using Python.
   
