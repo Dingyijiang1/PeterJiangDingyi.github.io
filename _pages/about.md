@@ -16,8 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-<img src="images/TJU.png" width = "100" height = "100" alt="" align=left />
-<img src="images/HKUST.png" width = "150" height = "100" alt="" align=left /><br />
+<img src="images/TJU.png" width = "200" height = "200" alt="" align=left />
+<img src="images/HKUST.png" width = "300" height = "200" alt="" align=left />
+
 
 # 💬Profile
 
