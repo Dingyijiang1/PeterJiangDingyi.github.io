@@ -22,7 +22,7 @@ redirect_from:
 Hi, I am Dingyi Jiang, and go by Vincent. Presently, I am an Artificial Intelligence major bachelor and will graduate in 2024 summer, where I am in <a href='http://cic.tju.edu.cn/english/home.htm'>the College of Intelligence and Computing, Tianjin University</a>(天津大学智能与计算学部). I have several AI-related projects and internships. Notably, I participated in an exchange program during 2023 at <a href='https://cse.hkust.edu.hk/'>the Department of Computer Science and Technology at HKUST</a>(香港科技大学计算机科学与技术学院).\
 <img src="images/TJU.png" width = "100" height = "100" alt="" align=center />
 <img src="images/HKUST.png" width = "230" height = "170" alt="" align=center />  
-\
+
 # 💬Why I want to be an AI Ph.D.
 
 Now I am applying for an AI-related Ph.D. My research interests lie within the realm of Artificial Intelligence (AI), such as NLP, GAN, AIGC, as well as AI fairness and ethic. I truly believe that as time progresses, people will increasingly embrace the incredible general AI, which has the potential to reshape our world in profound ways.
@@ -31,7 +31,7 @@ With this strong conviction in mind, I feel pursuing a Ph.D. degree is crucial t
 
 What's more, I have 2 AI-related research experiences and 2 AI-related Internships. I am confident that my past experiences in AI-related endeavors and my unwavering motivation will enable me to immerse myself fully in AI research.
 
-Therefore, I am eager to embark on the journey of obtaining a Ph.D. in AI, where I can passionately delve into the intricacies of the field. I envision a future where AI is used ethically and responsibly, and I hope to play a significant role in shaping this positive outcome through my contributions to the field of Artificial Intelligence.\
+Therefore, I am eager to embark on the journey of obtaining a Ph.D. in AI, where I can passionately delve into the intricacies of the field. I envision a future where AI is used ethically and responsibly, and I hope to play a significant role in shaping this positive outcome through my contributions to the field of Artificial Intelligence.
 
 
 # 🔥 News
@@ -43,7 +43,7 @@ Therefore, I am eager to embark on the journey of obtaining a Ph.D. in AI, where
 - *2022.12*: &nbsp;🔥 Received a nomination to attend an academic exchange program at HKUST. It is an exceptional privilege to be one of the two nominees from Tianjin University!
 - *2022.09*: &nbsp; Become a  research assistant of the "Intelligent Fire Protection" project led by Prof. Liu Yang at Tianjin University. In this project, I am responsible for developing AI algorithms.
 - *2022.04*: &nbsp; Appointed as the leader of the "Intelligent Visualization of the Attributes of the Global Burden of Disease" innovative project, which is supervised by Dr Jie Li.
-- *2022.04*: &nbsp; Joined the Visualization Lab at Tianjin University, which is under the supervision of Dr. Jie Li.\
+- *2022.04*: &nbsp; Joined the Visualization Lab at Tianjin University, which is under the supervision of Dr. Jie Li.
 
 
 # 📝 What Rescearchs I participated in 
@@ -57,7 +57,7 @@ Therefore, I am eager to embark on the journey of obtaining a Ph.D. in AI, where
   1. In collaboration with Shenzhen Hong Yuan Co., Ltd, a research project has been undertaken to explore the potential of Al in the field of hazardous fire protection, This project seeks to utilize Al to detect high voltage in order to preemptively control fires
   2. In this undertaking, l am responsible for the comprehensive upkeep of the system which encompasses an Al algorithm and a Flask web framework, This necessitates a thorough understanding of the intricate interplay between the two components as well as the ability to identify and rectify any issues that may arise. FurthermoreI must guarantee its optimal performance (accuracy uplifted from 85% to 90%).
 - *2023.04 - 2023.05* HKUST COMP 4901v Final Project, *Transformer-based Semantic Segmentation on 3D Point Clouds for Autonomous Driving*, with Professor <a href='https://www.danxurgb.net/'> Dan XU</a>, and groupmates Martin R. Inauen, Mikhail Tsirlin.
-  We reproduced the effort of the paper <a href='https://arxiv.org/abs/2012.09164'> Point Transformer</a> and delve into the potential of self-attention networks for self-driven related 3D point cloud processing. Our study involves understanding and using self-attention layers specifically for point clouds, which serve as fundamental building blocks for constructing self-attention networks deployed in semantic scene segmentation.\
+  We reproduced the effort of the paper <a href='https://arxiv.org/abs/2012.09164'> Point Transformer</a> and delve into the potential of self-attention networks for self-driven related 3D point cloud processing. Our study involves understanding and using self-attention layers specifically for point clouds, which serve as fundamental building blocks for constructing self-attention networks deployed in semantic scene segmentation.
 
      
 # 🎖 What Honors and Awards I have
@@ -66,7 +66,7 @@ Therefore, I am eager to embark on the journey of obtaining a Ph.D. in AI, where
 <img src="images/MA.jpg" width = "250" height = "270" alt="" align=center />  
 - Coursera Deeplearning online course (Andrew Y Ngon) certification.\
 <img src="images/standford_online.jpg" width = "250" height = "200" alt="" align=center />  
-\
+
 # 📖 My Education trajectory
 - *2021.09 - now*,  Undergraduate, Tianjin University, Artificial Intelligence Major
 - *2023.01 - 2023.06*, Exchange Student, HKUST, Computer Science Major
