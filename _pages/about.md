@@ -21,7 +21,7 @@ redirect_from:
 
 Presently, I am an Artificial Intelligence major bachelor at Tianjin University and will graduate at 2024 summer, where I am in <a href='http://cic.tju.edu.cn/english/home.htm'>the College of Intelligence and Computing</a>(天津大学智能与计算学部). I have several AI-related projects and internships. Notably, I participated in an exchange program during 2023 at <a href='https://cse.hkust.edu.hk/'>the Department of Computer Science and Technology at HKUST</a>(香港科技大学计算机科学与技术学院).\
 <img src="images/TJU.png" width = "100" height = "100" alt="" align=center />
-<img src="images/HKUST.png" width = "200" height = "150" alt="" align=center />  
+<img src="images/HKUST.png" width = "333" height = "250" alt="" align=center />  
 
 # 💬Interest and Motivation
 
