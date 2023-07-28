@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 <img src="images/TJU.png" width = "100" height = "100" alt="" align=left />
-<img src="images/HKUST.png" width = "150" height = "100" alt="" align=left />
+<img src="images/HKUST.png" width = "150" height = "100" alt="" align=left /><br />
 
 # 💬Profile
 
