@@ -16,8 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-![TJU](images/TJU.png)
-![HKUST](images/HKUST.png)
+![TJU](images/TJU.png =100x100)
+![HKUST](images/HKUST.png = 100x66)
 # 💬Profile
 
 Presently, I am an Artificial Intelligence major bachelor at Tianjin University and will graduate at 2024 summer, where I am in <a href='http://cic.tju.edu.cn/english/home.htm'>the College of Intelligence and Computing</a>(天津大学智能与计算学部). I have several AI-related projects and internships. Notably, I participated in an exchange program during 2023 at <a href='https://cse.hkust.edu.hk/'>the Department of Computer Science and Technology at HKUST</a>(香港科技大学计算机科学与技术学院).
