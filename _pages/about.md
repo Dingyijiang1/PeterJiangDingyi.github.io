@@ -63,8 +63,10 @@ Therefore, I am eager to embark on the journey of obtaining a Ph.D. in AI, where
      
 # 🎖 Honors and Awards
 - *2023.05* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- Additionally, during this internship, l enrolled in the Stanford Deeplearning online course (Andrew Y Ngon Coursera, where l learned about Convolutional Neural Networks (CNN), DeepNeural Networks (DNN), Mathtab, and Pytorch.
+- *2023.04* MCM/ICM Honorable Mention
+<img src="images/MA.jpg" width = "250" height = "270" alt="" align=center />  
+- Coursera Deeplearning online course (Andrew Y Ngon) certification.
+<img src="images/standford_online.jpg" width = "250" height = "200" alt="" align=center />  
 
 # 📖 Educations
 - *2021.09 - now*,  Undergraduate, Tianjin University, Artificial Intelligence Major
