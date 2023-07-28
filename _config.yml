@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Dingyi Jiang (Peter)"
+title                    : "Dingyi Jiang (Vincent)"
 description              : "An AI major Bachelor has strong motivation towards AI."
-repository               : "Peter1J/Peter1J.github.io"
+repository               : "https://github.com/VincentiJiang?tab=repositories"
 email                    : "djiangaf@connect.ust.hk"
 # google_scholar_stats_use_cdn : False
 
@@ -22,10 +22,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Dingyi Jiang (Peter)"
-  avatar           : "images/profile.jpg"
+  name             : "Dingyi Jiang (Vincent)"
+  avatar           : "images/face.jpg"
   bio              : "Tianjin University, HKUST"
-  location         : "Tianjin, China"
+  location         : "China"
   employer         :
   pubmed           : 
   # googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
@@ -39,7 +39,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Peter1J"
+  github           : "VincentiJiang"
   google_plus      :
   keybase          :
   instagram        : 
