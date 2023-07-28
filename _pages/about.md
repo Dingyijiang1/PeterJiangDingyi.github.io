@@ -21,7 +21,7 @@ redirect_from:
 
 Presently, I am an Artificial Intelligence major bachelor at Tianjin University and will graduate at 2024 summer, where I am in <a href='http://cic.tju.edu.cn/english/home.htm'>the College of Intelligence and Computing</a>(天津大学智能与计算学部). I have several AI-related projects and internships. Notably, I participated in an exchange program during 2023 at <a href='https://cse.hkust.edu.hk/'>the Department of Computer Science and Technology at HKUST</a>(香港科技大学计算机科学与技术学院).\
 <img src="images/TJU.png" width = "100" height = "100" alt="" align=center />
-<img src="images/HKUST.png" width = "333" height = "250" alt="" align=center />  
+<img src="images/HKUST.png" width = "290" height = "220" alt="" align=center />  
 
 # 💬Interest and Motivation
 
@@ -63,9 +63,9 @@ Therefore, I am eager to embark on the journey of obtaining a Ph.D. in AI, where
      
 # 🎖 Honors and Awards
 - *2023.05* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2023.04* MCM/ICM Honorable Mention
+- *2023.04* MCM/ICM Honorable Mention. \
 <img src="images/MA.jpg" width = "250" height = "270" alt="" align=center />  
-- Coursera Deeplearning online course (Andrew Y Ngon) certification.
+- Coursera Deeplearning online course (Andrew Y Ngon) certification.\
 <img src="images/standford_online.jpg" width = "250" height = "200" alt="" align=center />  
 
 # 📖 Educations
