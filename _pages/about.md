@@ -38,8 +38,8 @@ Therefore, I am eager to embark on the journey of obtaining a Ph.D. in AI, where
 - *2023.01 - 2023.06*, Exchange Student, HKUST, Computer Science Major 
 - *2019.09 - 2021.06*, Undergraduate, Tianjin University, Applied Chemistry Major (Changed Major)\
 
-# 📖 CGPA
-<a href='/images/Transcript.pdf'>Tianjin University Transcript</a>
+# 📖 GPA
+<a href='/images/Transcript.html'>Tianjin University Transcript</a>
 |||
 |||
 |||
