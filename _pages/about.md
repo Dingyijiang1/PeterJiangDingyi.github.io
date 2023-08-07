@@ -45,35 +45,36 @@ Due to my first two year in Tianjin university was studying applied chemistry an
 
 |Courses|Credit|Grade(100)|Grade(4.0)|
 |:------------------------------------------:|:------:|:---------:|:---------:|
+|Data Structure|3.0|91|4.0|
+|Programming practice|1.5|94|4.0|
+|Operating System Principle|3.0|94|4.0|
+|Algorithm Design and Analysis|3.0|88|3.7|
 |Probability Theory and Mathematic Statistics|3.0|87|3.7|
 |Discrete Mathematics|4.0|65|2.0|
+|Advanced Mathematics I|6.0|78|3.0|
+|Advanced Mathematics II|5.0|83|3.3|
+|Principles of Database|2.0|95|4.0|
+|Mathematical Model(flip)|3.0|97|4.0|
+|Data Mining|2.0|92|4.0|
+|Natural Language Processing|2.0|93|4.0|
+|Machine Learning|2.0|81|3.0|
+|Knowledge Engineering|2.0|97|4.0|
+|Knowledge Graph|1.5|93|4.0|
+|Neural Networks and Deep Learning|1.5|81.3|3.0|
+|Speech Information Processing|2.0|88|3.7|
 |Introduction to Computer Systems |2.0|87|3.7|
 |Selected topics in advanced mathematics competitionof college students|2.0|93|4.0|
-|Algorithm Design and Analysis|3.0|88|3.7|
-|Operating System Principle|3.0|94|4.0|
 |Computer industry frontier  innovation andEntrepreneurship|1.0|77.5|2.7|
 |Programming Principles|3.0|90|4.0|
-|Machine Learning|2.0|81|3.0|
-|Data Structure|3.0|91|4.0|
 |Introduction to cognitive science|2.0|91|4.0|
-|programming practice|1.5|94|4.0|
 |Introduction to Computer Systems|3.0|93|4.0|
-|Knowledge Engineering|2.0|97|4.0|
 |Digital Logic and Digital System|3.0|94|4.0|
-|Principles of Database|2.0|95|4.0|
 |Mathematical Foundations of Artificial Intelligence|3.0|88|3.7|
 |Computer Networks|2.0|80|3.0|
-|Art Practice and Performance A2|1.0|95|4.0|
-|Mathematical Model(flip)|3.0|97|4.0|
-|Natural Language Processing|2.0|93|4.0|
-|Data Mining|2.0|92|4.0|
 |The Comprehensive Practice of Computer System|1.5|90|4.0|
 |Comprehensive practice of machine learning|1.5|92.8|4.0|
 |Comprehensive Practice Course for KnowledgeEngineering|1.5|87.4|3.7|
-|Knowledge Graph|1.5|93|4.0|
-|Speech Information Processing|2.0|88|3.7|
-|Neural Networks and Deep Learning|1.5|81.3|3.0|
-|Career Guidance|2.0|92|4.0|
+
 # 🔥 News
 - *2023.06*: &nbsp;🔥 Start a Large Language Model internship at Frontis Ltd., Beijing!
 - *2023.05*: &nbsp;🔥Complete my one-semester exchange program at HKUST!
