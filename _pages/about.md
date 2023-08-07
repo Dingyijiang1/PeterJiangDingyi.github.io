@@ -41,7 +41,7 @@ Therefore, I am eager to embark on the journey of obtaining a Ph.D. in AI, where
 # 📖 My Study Performance
 <a href='https://peterjiangdingyi.github.io/transcripts.github.io/main.html'>Click Here to Visit My Overall GPA.</a>
 
-Due to my first two year in Tianjin university was studying applied chemistry and after that I changed major, my transcripts contain lots of chemical courses. Therefore, I put my core GPA which just contains computer-related courses together here.\
+Due to my first two year in Tianjin university was studying applied chemistry and after that I changed major, my transcripts contain lots of chemical courses. Therefore, I put my core GPA which just contains computer-related courses together here.
 
 |Courses|Credit|Grade(100)|Grade(4.0)|
 |:------------------------------------------:|:------:|:---------:|:---------:|
@@ -76,6 +76,9 @@ Due to my first two year in Tianjin university was studying applied chemistry an
 |Comprehensive practice of machine learning|1.5|92.8|4.0|
 |Comprehensive Practice Course for KnowledgeEngineering|1.5|87.4|3.7|
 |**Weighted Average**||**87.27**|**3.66**|
+
+TOEFL Score
+<img src="images/HKUST.png" width = "900" height = "170" alt="" align=center /> 
 
 # 📝 What Rescearchs I participated in 
 
