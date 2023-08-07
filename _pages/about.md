@@ -75,7 +75,7 @@ Due to my first two year in Tianjin university was studying applied chemistry an
 |The Comprehensive Practice of Computer System|1.5|90|4.0|
 |Comprehensive practice of machine learning|1.5|92.8|4.0|
 |Comprehensive Practice Course for KnowledgeEngineering|1.5|87.4|3.7|
-|**Average**||**87.27**|**3.66**|
+|**Weighted Average**||**87.27**|**3.66**|
 
 # 🔥 News
 - *2023.06*: &nbsp;🔥 Start a Large Language Model internship at Frontis Ltd., Beijing!
