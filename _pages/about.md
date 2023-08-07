@@ -23,7 +23,7 @@ Hi, I am Dingyi Jiang, and go by Vincent. Presently, I am an Artificial Intellig
 <img src="images/TJU.png" width = "100" height = "100" alt="" align=center />
 <img src="images/HKUST.png" width = "230" height = "170" alt="" align=center />  
 
-# 💬Why I want to be an AI Ph.D.
+# 💬Why I want to apply for AI Ph.D.
 
 Now I am applying for an AI-related Ph.D. My research interests lie within the realm of Artificial Intelligence (AI), such as NLP, GAN, AIGC, as well as AI fairness and ethic. I truly believe that as time progresses, people will increasingly embrace the incredible general AI, which has the potential to reshape our world in profound ways.
 
@@ -39,7 +39,7 @@ Therefore, I am eager to embark on the journey of obtaining a Ph.D. in AI, where
 - *2019.09 - 2021.06*, Undergraduate, Tianjin University, Applied Chemistry Major (Changed Major)\
 
 # 📖 My Study Performance
-<a href='https://peterjiangdingyi.github.io/transcripts.github.io/main.html'>Click Here to Visit My Overall GPA</a>
+<a href='https://peterjiangdingyi.github.io/transcripts.github.io/main.html'>Click Here to Visit My Overall GPA.</a>\
 |||
 |||
 |||
