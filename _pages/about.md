@@ -35,9 +35,14 @@ Therefore, I am eager to embark on the journey of obtaining a Ph.D. in AI, where
 
 # 📖 My Education trajectory
 - *2021.09 - now*,  Undergraduate, Tianjin University, Artificial Intelligence Major
-- *2023.01 - 2023.06*, Exchange Student, HKUST, Computer Science Major
+- *2023.01 - 2023.06*, Exchange Student, HKUST, Computer Science Major 
 - *2019.09 - 2021.06*, Undergraduate, Tianjin University, Applied Chemistry Major (Changed Major)\
 
+# 📖 CGPA
+<a href='images/Transcript.pdf'>Tianjin University Transcript</a>
+|||
+|||
+|||
 # 🔥 News
 - *2023.06*: &nbsp;🔥 Start a Large Language Model internship at Frontis Ltd., Beijing!
 - *2023.05*: &nbsp;🔥Complete my one-semester exchange program at HKUST!
