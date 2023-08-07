@@ -41,7 +41,7 @@ Therefore, I am eager to embark on the journey of obtaining a Ph.D. in AI, where
 # 📖 My Study Performance
 <a href='https://peterjiangdingyi.github.io/transcripts.github.io/main.html'>Click Here to Visit My Overall GPA.</a>
 
-Due to my first two year in Tianjin university was studying applied chemistry and after that I changed major, my transcripts contain lots of computer-unrelated courses. Therefore, I put my last two years GPA which just contains computer-related courses together here.
+Due to my first two year in Tianjin university was studying applied chemistry and after that I changed major, my transcripts contain lots of chemical courses. Therefore, I put my core GPA which just contains computer-related courses together here.\
 
 |Courses|Credit|Grade(100)|Grade(4.0)|
 |:------------------------------------------:|:------:|:---------:|:---------:|
