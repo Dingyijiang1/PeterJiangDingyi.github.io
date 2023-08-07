@@ -44,7 +44,7 @@ Therefore, I am eager to embark on the journey of obtaining a Ph.D. in AI, where
 Due to my first two year in Tianjin university was studying applied chemistry and after that I changed major, my transcripts contain lots of computer-unrelated courses. Therefore, I put my last two years GPA which just contains computer-related courses together here.\
 
 |Courses|Credit|Grade(100/4.0)|
-|---|---|---|
+|:------------------------------------------:|:-----:|:---------:|
 |Probability Theory and Mathematic Statistics|3.0|87/3.7|
 |Discrete Mathematics|4.0|65/2.0|
 |Introduction to Computer Systems |2.0|87/3.7|
