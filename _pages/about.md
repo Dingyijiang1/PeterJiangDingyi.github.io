@@ -77,7 +77,8 @@ Due to my first two year in Tianjin university was studying applied chemistry an
 |Comprehensive Practice Course for KnowledgeEngineering|1.5|87.4|3.7|
 |**Weighted Average**||**87.27**|**3.66**|
 
-TOEFL Score
+**TOEFL Score**
+
 <img src="images/toefl.png" width = "600" height = "110" alt="" align=center /> 
 
 # 📝 What Rescearchs I participated in 
