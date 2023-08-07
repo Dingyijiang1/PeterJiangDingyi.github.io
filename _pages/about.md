@@ -66,7 +66,7 @@ Therefore, I am eager to embark on the journey of obtaining a Ph.D. in AI, where
      
 # 🎖 What Honors and Awards I have
 - *2023.05* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2023.04* MCM/ICM Honorable Mention. \
+- *2023.04* MCM/ICM Honorable Nomination. \
 <img src="images/MA.jpg" width = "250" height = "270" alt="" align=center />  
 - Coursera Deeplearning online course (Andrew Y Ngon) certification.\
 <img src="images/standford_online.jpg" width = "250" height = "200" alt="" align=center />  
