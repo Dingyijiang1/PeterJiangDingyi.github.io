@@ -77,18 +77,6 @@ Due to my first two year in Tianjin university was studying applied chemistry an
 |Comprehensive Practice Course for KnowledgeEngineering|1.5|87.4|3.7|
 |**Weighted Average**||**87.27**|**3.66**|
 
-# 🔥 News
-- *2023.06*: &nbsp;🔥 Start a Large Language Model internship at Frontis Ltd., Beijing!
-- *2023.05*: &nbsp;🔥Complete my one-semester exchange program at HKUST!
-- *2023.05*: &nbsp; Finish our college Innovative project *Intelligent Visualization of the Attributes of the Global Burden of Disease*, which has been recognized with a municipal award!
-- *2023.05*: &nbsp; Achieved a full score on the final project presentation *Improvement of the state-of-the-art graph neural transformer model* for the postgraduate course *Advanced Deep Learning Architectures and their Applications* with groupmate Martin Rektoris, instructed by Dr. Qifeng Chen at HKUST!
-- *2023.01*: &nbsp; Begin my exchange program at HKUST. I enrolled in AI-related courses, including the undergraduate course *Large-Scale Deep Perception, Localization, and Planning for Autonomous Vehicles* and the Postgraduate courses *Advanced Deep Learning Architectures and their Applications*, *Computer Vision*.
-- *2022.12*: &nbsp;🔥 Received a nomination to attend an academic exchange program at HKUST. It is an exceptional privilege to be one of the two nominees from Tianjin University!
-- *2022.09*: &nbsp; Become a  research assistant of the "Intelligent Fire Protection" project led by Prof. Liu Yang at Tianjin University. In this project, I am responsible for developing AI algorithms.
-- *2022.04*: &nbsp; Appointed as the leader of the "Intelligent Visualization of the Attributes of the Global Burden of Disease" innovative project, which is supervised by Dr Jie Li.
-- *2022.04*: &nbsp; Joined the Visualization Lab at Tianjin University, which is under the supervision of Dr. Jie Li.
-
-
 # 📝 What Rescearchs I participated in 
 
 - *2022.04 - 2023.05* Leader in Municipal College Students Innovation and Entrepreneurship Training Program， *Intelligent Visualization of the Attributes of the Global Burden of Disease*, with Professor <a href='http://geoanalytics.tju.edu.cn/jieli'>Jie Li</a>.
@@ -118,4 +106,17 @@ Due to my first two year in Tianjin university was studying applied chemistry an
 - *2023.06 - 2023.12*, LLM Intern, [Frontis](https://frontis.cn/), China.
 - 1. Provide deep learning experiments and slides for Tianjin college students. My projects included *CNN, HMM, quality assessment in speech synthesis, and the prosodic* and *intonation of Chinese in speech synthesis*.
 - 2. During this period,l became proficient in the operation of Linux on the server and the running of code on  GPU using Python.
+  
+# 🔥 News
+- *2023.06*: &nbsp;🔥 Start a Large Language Model internship at Frontis Ltd., Beijing!
+- *2023.05*: &nbsp;🔥Complete my one-semester exchange program at HKUST!
+- *2023.05*: &nbsp; Finish our college Innovative project *Intelligent Visualization of the Attributes of the Global Burden of Disease*, which has been recognized with a municipal award!
+- *2023.05*: &nbsp; Achieved a full score on the final project presentation *Improvement of the state-of-the-art graph neural transformer model* for the postgraduate course *Advanced Deep Learning Architectures and their Applications* with groupmate Martin Rektoris, instructed by Dr. Qifeng Chen at HKUST!
+- *2023.01*: &nbsp; Begin my exchange program at HKUST. I enrolled in AI-related courses, including the undergraduate course *Large-Scale Deep Perception, Localization, and Planning for Autonomous Vehicles* and the Postgraduate courses *Advanced Deep Learning Architectures and their Applications*, *Computer Vision*.
+- *2022.12*: &nbsp;🔥 Received a nomination to attend an academic exchange program at HKUST. It is an exceptional privilege to be one of the two nominees from Tianjin University!
+- *2022.09*: &nbsp; Become a  research assistant of the "Intelligent Fire Protection" project led by Prof. Liu Yang at Tianjin University. In this project, I am responsible for developing AI algorithms.
+- *2022.04*: &nbsp; Appointed as the leader of the "Intelligent Visualization of the Attributes of the Global Burden of Disease" innovative project, which is supervised by Dr Jie Li.
+- *2022.04*: &nbsp; Joined the Visualization Lab at Tianjin University, which is under the supervision of Dr. Jie Li.
+
+
   
