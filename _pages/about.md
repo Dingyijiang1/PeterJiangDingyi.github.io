@@ -38,7 +38,7 @@ Therefore, I am eager to embark on the journey of obtaining a Ph.D. in AI, where
 - *2023.01 - 2023.06*, Exchange Student, HKUST, Computer Science Major 
 - *2019.09 - 2021.06*, Undergraduate, Tianjin University, Applied Chemistry Major (Changed Major)\
 
-# 📖 GPA
+# 📖 My Study Performance
 <a href='https://peterjiangdingyi.github.io/transcripts.github.io/main.html'>Click Here to Visit My Overall GPA</a>
 |||
 |||
