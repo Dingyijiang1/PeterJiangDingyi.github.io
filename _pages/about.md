@@ -39,7 +39,7 @@ Therefore, I am eager to embark on the journey of obtaining a Ph.D. in AI, where
 - *2019.09 - 2021.06*, Undergraduate, Tianjin University, Applied Chemistry Major (Changed Major)\
 
 # 📖 CGPA
-<a href='images/Transcript.pdf'>Tianjin University Transcript</a>
+<a href='/images/Transcript.pdf'>Tianjin University Transcript</a>
 |||
 |||
 |||
