@@ -33,6 +33,10 @@ What's more, I have 2 AI-related research experiences and 2 AI-related Internshi
 
 Therefore, I am eager to embark on the journey of obtaining a Ph.D. in AI, where I can passionately delve into the intricacies of the field. I envision a future where AI is used ethically and responsibly, and I hope to play a significant role in shaping this positive outcome through my contributions to the field of Artificial Intelligence.
 
+# 📖 My Education trajectory
+- *2021.09 - now*,  Undergraduate, Tianjin University, Artificial Intelligence Major
+- *2023.01 - 2023.06*, Exchange Student, HKUST, Computer Science Major
+- *2019.09 - 2021.06*, Undergraduate, Tianjin University, Applied Chemistry Major (Changed Major)\
 
 # 🔥 News
 - *2023.06*: &nbsp;🔥 Start a Large Language Model internship at Frontis Ltd., Beijing!
@@ -66,12 +70,6 @@ Therefore, I am eager to embark on the journey of obtaining a Ph.D. in AI, where
 <img src="images/MA.jpg" width = "250" height = "270" alt="" align=center />  
 - Coursera Deeplearning online course (Andrew Y Ngon) certification.\
 <img src="images/standford_online.jpg" width = "250" height = "200" alt="" align=center />  
-
-# 📖 My Education trajectory
-- *2021.09 - now*,  Undergraduate, Tianjin University, Artificial Intelligence Major
-- *2023.01 - 2023.06*, Exchange Student, HKUST, Computer Science Major
-- *2019.09 - 2021.06*, Undergraduate, Tianjin University, Applied Chemistry Major (Changed Major)\
-  
 
 # 💻 My Internships 
 - *2021.06 - 2021.09*, AI Intern, [AI Cyber](https://www.aicyber.com/), China.
