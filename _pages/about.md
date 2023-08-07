@@ -79,7 +79,7 @@ Due to my first two year in Tianjin university was studying applied chemistry an
 
 **TOEFL Score**
 
-<img src="images/toefl.png" width = "600" height = "110" alt="" align=center /> 
+<img src="images/toefl.png" width = "900" height = "170" alt="" align=center /> 
 
 # 📝 What Rescearchs I participated in 
 
