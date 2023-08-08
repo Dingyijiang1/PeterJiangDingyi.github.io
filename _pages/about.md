@@ -110,8 +110,8 @@ Due to my first two years in Tianjin university was studying applied chemistry a
   2. Conduct data analysis and data cleaning for Llama large model SFT and pretraining, including manual sampling, multi-threaded character-level processing, and quality and coherence evaluation using the Bert model.
   3. Perform benchmark evaluations and ranking for large models.
 - *2023.06 - 2023.12*, LLM Intern, [Frontis](https://frontis.cn/), China.
-- 1. Provide deep learning experiments and slides for Tianjin college students. My projects included *CNN, HMM, quality assessment in speech synthesis, and the prosodic* and *intonation of Chinese in speech synthesis*.
-- 2. During this period,l became proficient in the operation of Linux on the server and the running of code on  GPU using Python.
+  1. Provide deep learning experiments and slides for Tianjin college students. My projects included *CNN, HMM, quality assessment in speech synthesis, and the prosodic* and *intonation of Chinese in speech synthesis*.
+  2. During this period,l became proficient in the operation of Linux on the server and the running of code on  GPU using Python.
   
 # 🔥 News
 - *2023.06*: &nbsp;🔥 Start a Large Language Model internship at Frontis Ltd., Beijing!
