@@ -22,8 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  Chinese name     : "Jiang Dingyi， 蒋定一"
-  English name     : "Peter"
+  name             : "Jiang Dingyi，(蒋定一, Peter)"
   avatar           : "images/face.jpg"
   bio              : "Tianjin University, HKUST"
   location         : "China"
