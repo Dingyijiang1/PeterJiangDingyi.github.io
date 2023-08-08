@@ -82,17 +82,17 @@ Due to my first two years in Tianjin university was studying applied chemistry a
 
 # 📝 Rescearchs 
 
-- *2022.04 - 2023.05* Acted as Leader in Municipal College Students Innovation and Entrepreneurship Training Program， *Intelligent Visualization of the Attributes of the Global Burden of Disease*, with Professor <a href='http://geoanalytics.tju.edu.cn/jieli'>Jie Li</a>.
+- *2022.04 - 2023.05* Acted as Leader in Municipal College Students Innovation and Entrepreneurship Training Program， *Intelligent Visualization of the Attributes of the Global Burden of Disease*, supervised by Professor <a href='http://geoanalytics.tju.edu.cn/jieli'>Jie Li</a>.
   In this project, We conducted Graph Neural Network to analyze the similarity between diseases worldwide.
   1. By utilizing meta-path-related GNN to identify the correlation between diseases, converting the heterogeneous graph into an isomorphic graph, and then applying deepwalk to the isomorphic graph to obtain the representation of t-SNE dimensionality reduction visualization, a verification function can be provided.
   2. Research visualization result:
     <a href='https://peterjiangdingyi.github.io/ghdx.github.io/embed.html'>The similiarity between diseases worldwide </a>
     
-- *2022.04 - 2023.05* Acted as Researcher in Intelligent Fire Control Project, with Professor <a href='http://cic.tju.edu.cn/faculty/yangliu/index.html'>Liu Yang</a>.
+- *2022.04 - 2023.05* Acted as Researcher in Intelligent Fire Control Project, supervised by Professor <a href='http://cic.tju.edu.cn/faculty/yangliu/index.html'>Liu Yang</a>.
   1. In collaboration with <a href='http://www.farwide-electric.com/'>Shenzhen farwide-electric Co., Ltd (深圳弘远电气有限公司)</a>, a research project has been undertaken to explore the potential of Al in the field of hazardous fire protection, This project seeks to utilize Al technology to detect high voltage in order to preemptively control fires
   2. In this undertaking, l was responsible for the comprehensive upkeep of the system which encompasses an Al algorithm (such as SVM) and a Flask web framework, This necessitates a thorough understanding of the intricate interplay between the two components as well as the ability to identify and rectify any issues that may arise. FurthermoreI must guarantee its optimal performance (accuracy uplifted from 85% to 90%).
      
-- *2023.04 - 2023.05* HKUST COMP 4901v Final Project, *Transformer-based Semantic Segmentation on 3D Point Clouds for Autonomous Driving*, with Professor <a href='https://www.danxurgb.net/'> Dan XU</a>, and groupmates Martin R. Inauen, Mikhail Tsirlin.
+- *2023.04 - 2023.05* HKUST COMP 4901v Final Project, *Transformer-based Semantic Segmentation on 3D Point Clouds for Autonomous Driving*, supervised by Professor <a href='https://www.danxurgb.net/'> Dan XU</a>, and groupmates Martin R. Inauen, Mikhail Tsirlin.
   1. We reproduced the effort of the paper <a href='https://arxiv.org/abs/2012.09164'> Point Transformer</a> and delve into the potential of self-attention networks for self-driven related 3D point cloud processing. Our study involves understanding and using self-attention layers specifically for point clouds, which serve as fundamental building blocks for constructing self-attention networks deployed in semantic scene segmentation.
   2. <a href='https://peterjiangdingyi.github.io/transcripts.github.io/COMP4901v_Research.html'>CLICK Here to Browse Our Research Paper </a>
 
@@ -105,13 +105,14 @@ Due to my first two years in Tianjin university was studying applied chemistry a
 
 # 💻 Internships 
 - *2023.06 - 2023.12*, LLM Intern, [Frontis](https://frontis.cn/), China.
-  1. Provide deep learning experiments and slides for Tianjin college students. My projects included *CNN, HMM, quality assessment in speech synthesis, and the prosodic* and *intonation of Chinese in speech synthesis*.
-  2. During this period,l became proficient in the operation of Linux on the server and the running of code on  GPU using Python.
-    
-- *2021.06 - 2021.09*, AI Intern, [AI Cyber](https://www.aicyber.com/), China.
-  1. Responsible for in-house large model fine-tuning (supervised fine-tuning) and pretraining using the Slurm cluster, K8s cluster, and Deepspeed architecture.
+  1. Responsible for large model fine-tuning (supervised fine-tuning) and pretraining using the Slurm cluster, and Deepspeed architecture.
   2. Conduct data analysis and data cleaning for Llama large model SFT and pretraining, including manual sampling, multi-threaded character-level processing, and quality and coherence evaluation using the Bert model.
   3. Perform benchmark evaluations and ranking for large models.
+    
+- *2021.06 - 2021.09*, AI Intern, [AI Cyber](https://www.aicyber.com/), China.
+  1. Provide deep learning experiments and slides for Tianjin college students. My projects included *CNN, HMM, quality assessment in speech synthesis, and the prosodic* and *intonation of Chinese in speech synthesis*.
+  2. During this period,l became proficient in the operation of Linux on the server and the running of code on  GPU using Python.
+
 
   
 # 🔥 News
