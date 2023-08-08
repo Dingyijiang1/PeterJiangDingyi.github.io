@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>   
 
-# 💬Who am I
+# 💬About me
 
 Hi, I am Dingyi Jiang, and go by Peter. Presently, I am an Artificial Intelligence major bachelor and will graduate in 2024 summer, where I am in <a href='http://cic.tju.edu.cn/english/home.htm'>the College of Intelligence and Computing, Tianjin University</a>(天津大学智能与计算学部). I have several AI-related projects and internships. Notably, I participated in an exchange program during 2023 at <a href='https://cse.hkust.edu.hk/'>the Department of Computer Science and Technology at HKUST</a>(香港科技大学计算机科学与技术学院).\
 <img src="images/TJU.png" width = "100" height = "100" alt="" align=center />
@@ -33,12 +33,12 @@ What's more, I have 2 AI-related research experiences and 2 AI-related Internshi
 
 Therefore, I am eager to embark on the journey of obtaining a Ph.D. in AI, where I can passionately delve into the intricacies of the field. I envision a future where AI is used ethically and responsibly, and I hope to play a significant role in shaping this positive outcome through my contributions to the field of Artificial Intelligence.
 
-# 📖 My Education trajectory
+# 📖 Education
 - *2023.01 - 2023.06*, Exchange Student, HKUST, Computer Science Major
 - *2021.09 - now*,  Undergraduate, Tianjin University, Artificial Intelligence Major
 - *2019.09 - 2021.06*, Undergraduate, Tianjin University, Applied Chemistry Major (Changed Major)
 
-# 📖 My Study Performance
+# 📖 Study Performance
 <a href='https://peterjiangdingyi.github.io/transcripts.github.io/main.html'>Click Here to Visit My Overall GPA.</a>
 
 Due to my first two years in Tianjin university was studying applied chemistry and after that I changed major, my transcripts contain lots of non-computer related courses. Therefore, I put my core GPA which just contains computer-related courses together here.
@@ -80,7 +80,7 @@ Due to my first two years in Tianjin university was studying applied chemistry a
 
 <img src="images/toefl.png" width = "900" height = "170" alt="" align=center /> 
 
-# 📝 What Rescearchs I participated in 
+# 📝 Rescearchs 
 
 - *2022.04 - 2023.05* Acted as Leader in Municipal College Students Innovation and Entrepreneurship Training Program， *Intelligent Visualization of the Attributes of the Global Burden of Disease*, with Professor <a href='http://geoanalytics.tju.edu.cn/jieli'>Jie Li</a>.
   In this project, We conducted Graph Neural Network to analyze the similarity between diseases worldwide.
@@ -97,13 +97,13 @@ Due to my first two years in Tianjin university was studying applied chemistry a
   2. <a href='https://peterjiangdingyi.github.io/transcripts.github.io/COMP4901v_Research.html'>CLICK Here to Browse Our Research Paper </a>
 
      
-# 🎖 What Honors and Awards I have
+# 🎖 Honors and Awards
 - *2023.04* MCM/ICM Honorable Nomination. \
 <img src="images/MA.jpg" width = "250" height = "270" alt="" align=center />  
 - Coursera Deeplearning online course (Andrew Y Ngon) certification.\
 <img src="images/standford_online.jpg" width = "250" height = "200" alt="" align=center />  
 
-# 💻 My Internships 
+# 💻 Internships 
 - *2021.06 - 2021.09*, AI Intern, [AI Cyber](https://www.aicyber.com/), China.
   1. Responsible for in-house large model fine-tuning (supervised fine-tuning) and pretraining using the Slurm cluster, K8s cluster, and Deepspeed architecture.
   2. Conduct data analysis and data cleaning for Llama large model SFT and pretraining, including manual sampling, multi-threaded character-level processing, and quality and coherence evaluation using the Bert model.
