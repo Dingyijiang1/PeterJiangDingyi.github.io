@@ -94,7 +94,7 @@ Due to my first two years in Tianjin university was studying applied chemistry a
      
 - *2023.04 - 2023.05* HKUST COMP 4901v Final Project, *Transformer-based Semantic Segmentation on 3D Point Clouds for Autonomous Driving*, with Professor <a href='https://www.danxurgb.net/'> Dan XU</a>, and groupmates Martin R. Inauen, Mikhail Tsirlin.
   1. We reproduced the effort of the paper <a href='https://arxiv.org/abs/2012.09164'> Point Transformer</a> and delve into the potential of self-attention networks for self-driven related 3D point cloud processing. Our study involves understanding and using self-attention layers specifically for point clouds, which serve as fundamental building blocks for constructing self-attention networks deployed in semantic scene segmentation.
-  2. Our research paper can be viewed here: <a href='https://peterjiangdingyi.github.io/transcripts.github.io/COMP4901v_Research.html'>CLICK</a>
+  2. <a href='https://peterjiangdingyi.github.io/transcripts.github.io/COMP4901v_Research.html'>CLICK Here to Browse Our Research Paper </a>
 
      
 # 🎖 What Honors and Awards I have
