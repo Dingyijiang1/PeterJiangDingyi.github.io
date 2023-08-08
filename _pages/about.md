@@ -19,7 +19,7 @@ redirect_from:
 
 # 💬Who am I
 
-Hi, I am Dingyi Jiang, and go by Vincent. Presently, I am an Artificial Intelligence major bachelor and will graduate in 2024 summer, where I am in <a href='http://cic.tju.edu.cn/english/home.htm'>the College of Intelligence and Computing, Tianjin University</a>(天津大学智能与计算学部). I have several AI-related projects and internships. Notably, I participated in an exchange program during 2023 at <a href='https://cse.hkust.edu.hk/'>the Department of Computer Science and Technology at HKUST</a>(香港科技大学计算机科学与技术学院).\
+Hi, I am Dingyi Jiang, and go by Peter. Presently, I am an Artificial Intelligence major bachelor and will graduate in 2024 summer, where I am in <a href='http://cic.tju.edu.cn/english/home.htm'>the College of Intelligence and Computing, Tianjin University</a>(天津大学智能与计算学部). I have several AI-related projects and internships. Notably, I participated in an exchange program during 2023 at <a href='https://cse.hkust.edu.hk/'>the Department of Computer Science and Technology at HKUST</a>(香港科技大学计算机科学与技术学院).\
 <img src="images/TJU.png" width = "100" height = "100" alt="" align=center />
 <img src="images/HKUST.png" width = "230" height = "170" alt="" align=center />  
 
@@ -34,9 +34,9 @@ What's more, I have 2 AI-related research experiences and 2 AI-related Internshi
 Therefore, I am eager to embark on the journey of obtaining a Ph.D. in AI, where I can passionately delve into the intricacies of the field. I envision a future where AI is used ethically and responsibly, and I hope to play a significant role in shaping this positive outcome through my contributions to the field of Artificial Intelligence.
 
 # 📖 My Education trajectory
+- *2023.01 - 2023.06*, Exchange Student, HKUST, Computer Science Major
 - *2021.09 - now*,  Undergraduate, Tianjin University, Artificial Intelligence Major
-- *2023.01 - 2023.06*, Exchange Student, HKUST, Computer Science Major 
-- *2019.09 - 2021.06*, Undergraduate, Tianjin University, Applied Chemistry Major (Changed Major)\
+- *2019.09 - 2021.06*, Undergraduate, Tianjin University, Applied Chemistry Major (Changed Major)
 
 # 📖 My Study Performance
 <a href='https://peterjiangdingyi.github.io/transcripts.github.io/main.html'>Click Here to Visit My Overall GPA.</a>
@@ -82,16 +82,19 @@ Due to my first two years in Tianjin university was studying applied chemistry a
 
 # 📝 What Rescearchs I participated in 
 
-- *2022.04 - 2023.05* Leader in Municipal College Students Innovation and Entrepreneurship Training Program， *Intelligent Visualization of the Attributes of the Global Burden of Disease*, with Professor <a href='http://geoanalytics.tju.edu.cn/jieli'>Jie Li</a>.
-  In this project, We conduct GNN to analyze the similarity of diseases worldwide.
-  1. By utilizing meta-path-related GNN to identify the correlation between diseases, converting the heterogeneous graph into an isomorphic graph, and then applying deepwalk to the isomorphic graph to obtain the representation of t-SNEdimensionality reduction visualization, a verification function can be provided.
+- *2022.04 - 2023.05* Acted as Leader in Municipal College Students Innovation and Entrepreneurship Training Program， *Intelligent Visualization of the Attributes of the Global Burden of Disease*, with Professor <a href='http://geoanalytics.tju.edu.cn/jieli'>Jie Li</a>.
+  In this project, We conducted Graph Neural Network to analyze the similarity between diseases worldwide.
+  1. By utilizing meta-path-related GNN to identify the correlation between diseases, converting the heterogeneous graph into an isomorphic graph, and then applying deepwalk to the isomorphic graph to obtain the representation of t-SNE dimensionality reduction visualization, a verification function can be provided.
   2. Research visualization result:
-    https://18698001120github.io/ghdxgithub.io/embed.html
-- *2022.04 - 2023.05* Researcher in Intelligent Fire Control Project, with Professor <a href='http://cic.tju.edu.cn/faculty/yangliu/index.html'>Liu Yang</a>.
-  1. In collaboration with Shenzhen Hong Yuan Co., Ltd, a research project has been undertaken to explore the potential of Al in the field of hazardous fire protection, This project seeks to utilize Al to detect high voltage in order to preemptively control fires
-  2. In this undertaking, l am responsible for the comprehensive upkeep of the system which encompasses an Al algorithm and a Flask web framework, This necessitates a thorough understanding of the intricate interplay between the two components as well as the ability to identify and rectify any issues that may arise. FurthermoreI must guarantee its optimal performance (accuracy uplifted from 85% to 90%).
+    <a href='https://peterjiangdingyi.github.io/ghdx.github.io/embed.html'>The similiarity between diseases worldwide </a>
+    
+- *2022.04 - 2023.05* Acted as Researcher in Intelligent Fire Control Project, with Professor <a href='http://cic.tju.edu.cn/faculty/yangliu/index.html'>Liu Yang</a>.
+  1. In collaboration with <a href='http://www.farwide-electric.com/'>Shenzhen farwide-electric Co., Ltd (深圳弘远电气有限公司)</a>, a research project has been undertaken to explore the potential of Al in the field of hazardous fire protection, This project seeks to utilize Al technology to detect high voltage in order to preemptively control fires
+  2. In this undertaking, l was responsible for the comprehensive upkeep of the system which encompasses an Al algorithm (such as SVM) and a Flask web framework, This necessitates a thorough understanding of the intricate interplay between the two components as well as the ability to identify and rectify any issues that may arise. FurthermoreI must guarantee its optimal performance (accuracy uplifted from 85% to 90%).
+     
 - *2023.04 - 2023.05* HKUST COMP 4901v Final Project, *Transformer-based Semantic Segmentation on 3D Point Clouds for Autonomous Driving*, with Professor <a href='https://www.danxurgb.net/'> Dan XU</a>, and groupmates Martin R. Inauen, Mikhail Tsirlin.
-  We reproduced the effort of the paper <a href='https://arxiv.org/abs/2012.09164'> Point Transformer</a> and delve into the potential of self-attention networks for self-driven related 3D point cloud processing. Our study involves understanding and using self-attention layers specifically for point clouds, which serve as fundamental building blocks for constructing self-attention networks deployed in semantic scene segmentation.
+  1. We reproduced the effort of the paper <a href='https://arxiv.org/abs/2012.09164'> Point Transformer</a> and delve into the potential of self-attention networks for self-driven related 3D point cloud processing. Our study involves understanding and using self-attention layers specifically for point clouds, which serve as fundamental building blocks for constructing self-attention networks deployed in semantic scene segmentation.
+  2. Our research paper can be viewed here: <a href='https://peterjiangdingyi.github.io/transcripts.github.io/COMP4901v_Research.html'>CLICK</a>
 
      
 # 🎖 What Honors and Awards I have
