@@ -34,30 +34,30 @@ What's more, I have 2 AI-related research experiences and 2 AI-related Internshi
 Therefore, I am eager to embark on the journey of obtaining a Ph.D. in AI, where I can passionately delve into the intricacies of the field. I envision a future where AI is used ethically and responsibly, and I hope to play a significant role in shaping this positive outcome through my contributions to the field of Artificial Intelligence.
 
 # 📖 Education
-- *2023.01 - 2023.06*, Exchange Student, HKUST, Computer Science Major
-- *2021.09 - now*,  Undergraduate, Tianjin University, Artificial Intelligence Major
-- *2019.09 - 2021.06*, Undergraduate, Tianjin University, Applied Chemistry Major (Changed Major)
+- *2023.01 - 2023.06*, Exchange Student, HKUST, Computer Science
+- *2021.09 - now*,  Undergraduate, Tianjin University, Artificial Intelligence 
+- *2019.09 - 2021.06*, Undergraduate, Tianjin University, Applied Chemistry (Changed Major)
 
 # 📖 Study Performance
 <a href='https://peterjiangdingyi.github.io/transcripts.github.io/main.html'>Click Here to Visit My Overall GPA.</a>
 
-Due to my first two years in Tianjin university was studying applied chemistry and after that I changed major, my transcripts contain lots of non-computer related courses. Therefore, I put my core GPA which just contains computer-related courses together here.
+Because my first two years at Tianjin University were studying applied chemistry and after that, I changed major, so my transcripts contain lots of non-computer-related courses. Therefore, I put my core GPA which just contains computer-related courses together here.
 
 |NO.|Courses|Credit|Grade(100)|Grade(4.0)|
 |:--:|:------------------------------------------:|:------:|:---------:|:---------:|
 |1|Data Structure|3.0|91|4.0|
 |2|Programming practice|1.5|94|4.0|
-|3|Operating System Principle|3.0|94|4.0|
-|4|Algorithm Design and Analysis|3.0|88|3.7|
-|5|Probability Theory and Mathematic Statistics|3.0|87|3.7|
-|6|Discrete Mathematics|4.0|65|2.7|
-|7|Linear Algebra and Application|3.5|69|2.7|
-|8|Advanced Mathematics|5.0|83|3.3|
-|9|Mathematical Model(flip)|3.0|97|4.0|
-|10|Mathematical Foundations of Artificial Intelligence|3.0|88|3.7|
-|11|Principles of Database|2.0|95|4.0|
-|12|Programming Principles|3.0|90|4.0|
-|13|Data Mining|2.0|92|4.0|
+|3|Programming Principles|3.0|90|4.0|
+|4|Data Mining|2.0|92|4.0|
+|5|Operating System Principle|3.0|94|4.0|
+|6|Algorithm Design and Analysis|3.0|88|3.7|
+|7|Probability Theory and Mathematic Statistics|3.0|87|3.7|
+|8|Discrete Mathematics|4.0|65|2.7|
+|9|Linear Algebra and Application|3.5|69|2.7|
+|10|Advanced Mathematics|5.0|83|3.3|
+|11|Mathematical Model(flip)|3.0|97|4.0|
+|12|Mathematical Foundations of Artificial Intelligence|3.0|88|3.7|
+|13|Principles of Database|2.0|95|4.0|
 |14|Natural Language Processing|2.0|93|4.0|
 |15|Machine Learning|2.0|81|3.0|
 |16|Knowledge Engineering|2.0|97|4.0|
