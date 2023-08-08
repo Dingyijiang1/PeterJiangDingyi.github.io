@@ -98,7 +98,6 @@ Due to my first two years in Tianjin university was studying applied chemistry a
 
      
 # 🎖 What Honors and Awards I have
-- *2023.05* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2023.04* MCM/ICM Honorable Nomination. \
 <img src="images/MA.jpg" width = "250" height = "270" alt="" align=center />  
 - Coursera Deeplearning online course (Andrew Y Ngon) certification.\
