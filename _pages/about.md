@@ -74,7 +74,7 @@ Due to my first two years in Tianjin university was studying applied chemistry a
 |27|The Comprehensive Practice of Computer System|1.5|90|4.0|
 |28|Comprehensive practice of machine learning|1.5|92.8|4.0|
 |29|Comprehensive Practice Course for KnowledgeEngineering|1.5|87.4|3.7|
-|**Weighted Average**||**87.27**|**3.66**|
+||**Weighted Average**||**87.31**|**3.67**|
 
 **TOEFL Score**
 
