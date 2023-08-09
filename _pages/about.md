@@ -82,7 +82,7 @@ Because my first two years at Tianjin University were studying applied chemistry
 
 # 📝 Rescearchs 
 
-- *2022.04 - 2023.05* Acted as Leader in Municipal College Students Innovation and Entrepreneurship Training Program， *Intelligent Visualization of the Attributes of the Global Burden of Disease*, supervised by Professor <a href='http://geoanalytics.tju.edu.cn/jieli'>Jie Li</a>.
+- *2022.04 - 2023.05* Acted as Leader in Municipal College Students Innovation and Entrepreneurship Training Program， *Intelligent Visualization of the Attributes of the Global Burden of Disease*, supervised by Professor <a href='http://geoanalytics.tju.edu.cn/jieli'>Jie Li</a> and <a href='https://www.ai.pku.edu.cn/info/1140/2160.html'>Dr. Liang Zhou</a>.
   In this project, We conducted Graph Neural Network to analyze the similarity between diseases worldwide.
   1. By utilizing meta-path-related GNN to identify the correlation between diseases, converting the heterogeneous graph into an isomorphic graph, and then applying deepwalk to the isomorphic graph to obtain the representation of t-SNE dimensionality reduction visualization, a verification function can be provided.
   2. Research visualization result:
