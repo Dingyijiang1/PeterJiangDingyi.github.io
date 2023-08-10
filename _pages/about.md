@@ -88,9 +88,9 @@ Because my first two years at Tianjin University were studying applied chemistry
   1. By utilizing meta-path-related GNN to identify the correlation between diseases, converting the heterogeneous graph into an isomorphic graph, and then applying deepwalk to the isomorphic graph to obtain the representation of t-SNE dimensionality reduction visualization, a verification function can be provided.
   2. Research visualization result:
      
-    <a href='https://peterjiangdingyi.github.io/ghdx.github.io/DCD.html'>Graph Constructed by Meta-Path </a>
+        <a href='https://peterjiangdingyi.github.io/ghdx.github.io/DCD.html'>Graph Constructed by Meta-Path </a>
     
-    <a href='https://peterjiangdingyi.github.io/ghdx.github.io/embed.html'>The similiarity between diseases worldwide </a>
+        <a href='https://peterjiangdingyi.github.io/ghdx.github.io/embed.html'>The similiarity between diseases worldwide </a>
     
 - *2022.04 - 2023.05* Acted as Researcher in Intelligent Fire Control Project, supervised by Professor <a href='http://cic.tju.edu.cn/faculty/yangliu/index.html'>Liu Yang</a>.
   1. In collaboration with <a href='http://www.farwide-electric.com/'>Shenzhen farwide-electric Co., Ltd (深圳弘远电气有限公司)</a>, a research project has been undertaken to explore the potential of Al in the field of hazardous fire protection, This project seeks to utilize Al technology to detect high voltage in order to preemptively control fires
