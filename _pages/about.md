@@ -25,7 +25,7 @@ Hi, I am Dingyi Jiang, and go by Peter. Presently, I am an Artificial Intelligen
 
 # 💬Why I want to apply for AI Ph.D.
 
-Now I am applying for an AI-related Ph.D. My research interests lie within the realm of Artificial Intelligence (AI), such as NLP, GAN, AIGC, as well as AI fairness and ethic. I truly believe that as time progresses, people will increasingly embrace the incredible general AI, which has the potential to reshape our world in profound ways.
+Now I am applying for an AI-related Ph.D. My research interests lie within the realm of Artificial Intelligence (AI), such as algorithm, NLP, GAN, AIGC, as well as trustworthy AI. I truly believe that as time progresses, people will increasingly embrace the incredible general AI, which has the potential to reshape our world in profound ways.
 
 With this strong conviction in mind, I feel pursuing a Ph.D. degree is crucial to gain deeper insights into the field. During the doctoral program, I will have the opportunity to engage in in-depth research, contributing to the ever-evolving AI landscape and making meaningful contributions to the field.
 
