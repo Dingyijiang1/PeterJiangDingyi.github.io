@@ -25,9 +25,9 @@ Hi, I am Dingyi Jiang, and go by Peter. Presently, I am an Artificial Intelligen
 
 # 💬Why I want to apply for AI Ph.D.
 
-Now I am applying for an AI-related Ph.D. My research interests lie within the realm of Artificial Intelligence (AI), such as algorithm, NLP, GAN, AIGC, as well as trustworthy AI. I truly believe that as time progresses, people will increasingly embrace the incredible general AI, which has the potential to reshape our world in profound ways.
+Now I am applying for an AI-related Ph.D. My research interests lie within the realm of Artificial Intelligence (AI), such as algorithms, NLP, GAN, AIGC, as well as trustworthy AI. I truly believe that as time progresses, people will increasingly embrace the incredible general AI, which has the potential to reshape our world in profound ways.
 
-With this strong conviction in mind, I feel pursuing a Ph.D. degree is crucial to gain deeper insights into the field. During the doctoral program, I will have the opportunity to engage in in-depth research, contributing to the ever-evolving AI landscape and making meaningful contributions to the field.
+With this strong conviction in mind, I feel pursuing a Ph.D. degree is crucial to gaining deeper insights into the field. During the doctoral program, I will have the opportunity to engage in in-depth research, contributing to the ever-evolving AI landscape and making meaningful contributions to the field.
 
 What's more, I have 2 AI-related research experiences and 2 AI-related Internships. I am confident that my past experiences in AI-related endeavors and my unwavering motivation will enable me to immerse myself fully in AI research.
 
@@ -84,20 +84,23 @@ Because my first two years at Tianjin University were studying applied chemistry
 
 - *2022.04 - 2023.05* Acted as Leader in Municipal College Students Innovation and Entrepreneurship Training Program， *Intelligent Visualization of the Attributes of the Global Burden of Disease*, supervised by Professor <a href='http://geoanalytics.tju.edu.cn/jieli'>Jie Li</a> and <a href='https://www.ai.pku.edu.cn/info/1140/2160.htm'>Dr. Liang Zhou</a>.
   
-  In this project, We conducted Graph Neural Network to analyze the similarity between diseases worldwide.
+  In this project, We conducted a Graph Neural Network to analyze the similarity between diseases worldwide.
   1. By utilizing meta-path-related GNN to identify the correlation between diseases, converting the heterogeneous graph into an isomorphic graph, and then applying deepwalk to the isomorphic graph to obtain the representation of t-SNE dimensionality reduction visualization, a verification function can be provided.
   2. Research visualization result:
      
         <a href='https://peterjiangdingyi.github.io/ghdx.github.io/DCD.html'>Graph Constructed by Meta-Path </a>
     
-        <a href='https://peterjiangdingyi.github.io/ghdx.github.io/embed.html'>The similiarity between diseases worldwide </a>
+        <a href='https://peterjiangdingyi.github.io/ghdx.github.io/embed.html'>The similarity between diseases worldwide </a>
+    3. The edges of the project:
+         (1) By using all kinds of meta-path, we can construct any arbitrary pattern to analyze topological information on the burden of diseases.
+         (2) By using GNN, we can utilize the homogeneous graph derived from metapath to form embeddings to accurately analyze the similarity of diseases.
     
 - *2022.04 - 2023.05* Acted as Researcher in Intelligent Fire Control Project, supervised by Professor <a href='http://cic.tju.edu.cn/faculty/yangliu/index.html'>Liu Yang</a>.
   1. In collaboration with <a href='http://www.farwide-electric.com/'>Shenzhen farwide-electric Co., Ltd (深圳弘远电气有限公司)</a>, a research project has been undertaken to explore the potential of Al in the field of hazardous fire protection, This project seeks to utilize Al technology to detect high voltage in order to preemptively control fires
-  2. In this undertaking, l was responsible for the comprehensive upkeep of the system which encompasses an Al algorithm (such as SVM) and a Flask web framework, This necessitates a thorough understanding of the intricate interplay between the two components as well as the ability to identify and rectify any issues that may arise. FurthermoreI must guarantee its optimal performance (accuracy uplifted from 85% to 90%).
+  2. In this undertaking, l was responsible for the comprehensive upkeep of the system which encompasses an Al algorithm (such as SVM) and a Flask web framework, This necessitates a thorough understanding of the intricate interplay between the two components as well as the ability to identify and rectify any issues that may arise. Furthermore, I must guarantee its optimal performance (accuracy uplifted from 85% to 90%).
      
 - *2023.04 - 2023.05* HKUST COMP 4901v Final Project, *Transformer-based Semantic Segmentation on 3D Point Clouds for Autonomous Driving*, supervised by Professor <a href='https://www.danxurgb.net/'> Dan XU</a>, and groupmates Martin R. Inauen, Mikhail Tsirlin.
-  1. We reproduced the effort of the paper <a href='https://arxiv.org/abs/2012.09164'> Point Transformer</a> and delve into the potential of self-attention networks for self-driven related 3D point cloud processing. Our study involves understanding and using self-attention layers specifically for point clouds, which serve as fundamental building blocks for constructing self-attention networks deployed in semantic scene segmentation.
+  1. We reproduced the effort of the paper <a href='https://arxiv.org/abs/2012.09164'> Point Transformer</a> and delved into the potential of self-attention networks for self-driven related 3D point cloud processing. Our study involves understanding and using self-attention layers specifically for point clouds, which serve as fundamental building blocks for constructing self-attention networks deployed in semantic scene segmentation.
   2. <a href='https://peterjiangdingyi.github.io/transcripts.github.io/COMP4901v_Research.html'>CLICK Here to Browse Our Research Paper </a>
 
      
@@ -124,10 +127,10 @@ Because my first two years at Tianjin University were studying applied chemistry
 - *2023.05*: &nbsp;🔥Complete my one-semester exchange program at HKUST!
 - *2023.05*: &nbsp; Finish our college Innovative project *Intelligent Visualization of the Attributes of the Global Burden of Disease*, which has been recognized with a municipal award!
 - *2023.05*: &nbsp; Achieved a full score on the final project presentation *Improvement of the state-of-the-art graph neural transformer model* for the postgraduate course *Advanced Deep Learning Architectures and their Applications* with groupmate Martin Rektoris, instructed by Dr. Qifeng Chen at HKUST!
-- *2023.01*: &nbsp; Begin my exchange program at HKUST. I enrolled in AI-related courses, including the undergraduate course *Large-Scale Deep Perception, Localization, and Planning for Autonomous Vehicles* and the Postgraduate courses *Advanced Deep Learning Architectures and their Applications*, *Computer Vision*.
+- *2023.01*: &nbsp; Begin my exchange program at HKUST. I enrolled in AI-related courses, including the undergraduate course *Large-Scale Deep Perception, Localization, and Planning for Autonomous Vehicles* and the Postgraduate course *Advanced Deep Learning Architectures and their Applications*, *Computer Vision*.
 - *2022.12*: &nbsp;🔥 Received a nomination to attend an academic exchange program at HKUST. It is an exceptional privilege to be one of the two nominees from Tianjin University!
 - *2022.09*: &nbsp; Become a  research assistant of the "Intelligent Fire Protection" project led by Prof. Liu Yang at Tianjin University. In this project, I am responsible for developing AI algorithms.
-- *2022.04*: &nbsp; Appointed as the leader of the "Intelligent Visualization of the Attributes of the Global Burden of Disease" innovative project, which is supervised by Dr Jie Li.
+- *2022.04*: &nbsp; Appointed as the leader of the "Intelligent Visualization of the Attributes of the Global Burden of Disease" innovative project, which is supervised by Dr. Jie Li.
 - *2022.04*: &nbsp; Joined the Visualization Lab at Tianjin University, which is under the supervision of Dr. Jie Li.
 
 
