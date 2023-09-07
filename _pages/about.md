@@ -81,11 +81,13 @@ Because my first two years at Tianjin University were studying applied chemistry
   In this project, We conducted a Graph Neural Network to analyze the similarity between diseases worldwide.
   1. By utilizing meta-path-related GNN to identify the correlation between diseases, converting the heterogeneous graph into an isomorphic graph, and then applying deepwalk to the isomorphic graph to obtain the representation of t-SNE dimensionality reduction visualization, a verification function can be provided.
   2. Research visualization result:
-     
+
         <a href='https://peterjiangdingyi.github.io/ghdx.github.io/DCD.html'>Graph Constructed by Meta-Path </a>
-    
+           <img src="images/diseases.png" width = "500" height = "250" alt="" align=center />
+     
         <a href='https://peterjiangdingyi.github.io/ghdx.github.io/embed.html'>The similarity between diseases worldwide </a>
-    3. The edges of the project:
+           <img src="images/Similarity.png" width = "500" height = "250" alt="" align=center />  
+    4. The edges of the project:
          (1) By using all kinds of meta-path, we can construct any arbitrary pattern to analyze topological information on the burden of diseases.
          (2) By using GNN, we can utilize the homogeneous graph derived from metapath to form embeddings to accurately analyze the similarity of diseases.
     
@@ -96,6 +98,7 @@ Because my first two years at Tianjin University were studying applied chemistry
 - *2023.04 - 2023.05* HKUST COMP 4901v Final Project, *Transformer-based Semantic Segmentation on 3D Point Clouds for Autonomous Driving*, supervised by Professor <a href='https://www.danxurgb.net/'> Dan XU</a>, and groupmates Martin R. Inauen, Mikhail Tsirlin.
   1. We reproduced the effort of the paper <a href='https://arxiv.org/abs/2012.09164'> Point Transformer</a> and delved into the potential of self-attention networks for self-driven related 3D point cloud processing. Our study involves understanding and using self-attention layers specifically for point clouds, which serve as fundamental building blocks for constructing self-attention networks deployed in semantic scene segmentation.
   2. <a href='https://peterjiangdingyi.github.io/transcripts.github.io/COMP4901v_Research.html'>CLICK Here to Browse Our Research Paper </a>
+             <img src="images/point.png" width = "500" height = "250" alt="" align=center /> 
 
      
 # 🎖 Honors and Awards
