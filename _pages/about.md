@@ -27,12 +27,16 @@ Hi, I am Dingyi Jiang. Presently, I am an Artificial Intelligence major bachelor
 1. Machine learning: domain generalization, transfer learning, semi-supervised learning, federated learning, and related applications.
 2. Large language models: LLM evaluation and enhancement.
 
-# 💬I will join <a href='https://sites.google.com/site/borriewang/'>Boyu Wang's lab</a> as a Ph.D. at <a href='https://www.uwo.ca/'>the University of Western Ontario</a> in fall, 2024. 
+
+# 💬I will join <a href='https://sites.google.com/site/borriewang/'>Boyu Wang's lab</a> as a Ph.D. at <a href='https://www.uwo.ca/'>Western University</a> in fall, 2024. 
+<img src="images/Western.png" width = "230" height = "170" alt="" align=center />  
+
 
 # 📖 Education
 - *2021.09 - now*,  Undergraduate, Tianjin University, Artificial Intelligence
 - *2023.01 - 2023.06*, Exchange Student, HKUST, Computer Science
 - *2019.09 - 2021.06*, Undergraduate, Tianjin University, Applied Chemistry (Changed Major)
+
 
 # 💻 Internships 
 - *2023.06 - 2023.12*, LLM Intern, [Frontis](https://frontis.cn/), China.
