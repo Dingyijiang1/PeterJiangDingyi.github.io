@@ -19,19 +19,30 @@ redirect_from:
 
 # 💬About me
 
-Hi, I am Dingyi Jiang, and go by Peter. Presently, I am an Artificial Intelligence major bachelor and will graduate in 2024 summer, where I am in <a href='http://cic.tju.edu.cn/english/home.htm'>the College of Intelligence and Computing, Tianjin University</a>(天津大学智能与计算学部). I have several AI-related projects and internships. Notably, I participated in an exchange program during 2023 at <a href='https://cse.hkust.edu.hk/'>the Department of Computer Science and Technology at HKUST</a>(香港科技大学计算机科学与技术学院). I won two scholarships during my undergraduate years。\
+Hi, I am Dingyi Jiang. Presently, I am an Artificial Intelligence major bachelor and will graduate in 2024 summer, where I am in <a href='http://cic.tju.edu.cn/english/home.htm'>the College of Intelligence and Computing, Tianjin University</a>(天津大学智能与计算学部). I have several AI-related projects and internships. Notably, I participated in an exchange program during 2023 at <a href='https://cse.hkust.edu.hk/'>the Department of Computer Science and Technology at HKUST</a>(香港科技大学计算机科学与技术学院). I won two scholarships during my undergraduate years。\
 <img src="images/TJU.png" width = "100" height = "100" alt="" align=center />
 <img src="images/HKUST.png" width = "230" height = "170" alt="" align=center />  
 
-# 💬Why I want to apply for AI Ph.D.
-
-Now I am applying for an AI-related Ph.D. My research interests lie within the realm of Artificial Intelligence (AI). I truly believe that as time progresses, people will increasingly embrace the incredible general AI, which has the potential to reshape our world in profound ways. With this strong conviction and motivation in mind, I feel pursuing a Ph.D. degree is crucial to gaining deeper insights into the field. 
+# 💬I will be a fast-track Ph.D. with <a href='https://sites.google.com/site/borriewang/'>Boyu Wang</a> at <a href='https://www.uwo.ca/'>the University of Western Ontario</a> in fall, 2024. Currently, my research interests including transfer learning algorithms and LLM.
 
 # 📖 Education
+- *2021.09 - now*,  Undergraduate, Tianjin University, Artificial Intelligence
 - *2023.01 - 2023.06*, Exchange Student, HKUST, Computer Science
-- *2021.09 - now*,  Undergraduate, Tianjin University, Artificial Intelligence 
 - *2019.09 - 2021.06*, Undergraduate, Tianjin University, Applied Chemistry (Changed Major)
 
+
+# 💻 Internships 
+- *2023.06 - 2023.12*, LLM Intern, [Frontis](https://frontis.cn/), China.
+  1. Responsible for large model fine-tuning (supervised fine-tuning) and pretraining using the Slurm cluster.
+  2. Conduct data analysis and data cleaning for Llama large model SFT and pretraining, including manual sampling, multi-threaded character-level processing, and quality and coherence evaluation using the Bert model.
+  3. Perform benchmark evaluations and ranking for large models.
+    
+- *2021.06 - 2021.09*, AI Intern, [AI Cyber](https://www.aicyber.com/), China.
+  1. Provide deep learning experiments and slides for Tianjin college students. My projects included *CNN, HMM, quality assessment in speech synthesis, and the prosodic* and *intonation of Chinese in speech synthesis*.
+  2. During this period,l became proficient in the operation of Linux on the server and the running of code on  GPU using Python.
+
+
+<p>
 # 📖 Study Performance
 <a href='https://peterjiangdingyi.github.io/transcripts.github.io/main.html'>Click Here to Visit My Overall GPA.</a>
 
@@ -73,6 +84,7 @@ Because my first two years at Tianjin University were studying applied chemistry
 **TOEFL Score**
 
 <img src="images/toefl.png" width = "900" height = "170" alt="" align=center /> 
+</p>
 
 # 📝 Rescearchs 
 
@@ -106,17 +118,6 @@ Because my first two years at Tianjin University were studying applied chemistry
 <img src="images/MA.jpg" width = "250" height = "270" alt="" align=center />  
 - Coursera Deeplearning online course (Andrew Y Ngon) certification.\
 <img src="images/standford_online.jpg" width = "250" height = "200" alt="" align=center />  
-
-# 💻 Internships 
-- *2023.06 - 2023.12*, LLM Intern, [Frontis](https://frontis.cn/), China.
-  1. Responsible for large model fine-tuning (supervised fine-tuning) and pretraining using the Slurm cluster, and Deepspeed architecture.
-  2. Conduct data analysis and data cleaning for Llama large model SFT and pretraining, including manual sampling, multi-threaded character-level processing, and quality and coherence evaluation using the Bert model.
-  3. Perform benchmark evaluations and ranking for large models.
-    
-- *2021.06 - 2021.09*, AI Intern, [AI Cyber](https://www.aicyber.com/), China.
-  1. Provide deep learning experiments and slides for Tianjin college students. My projects included *CNN, HMM, quality assessment in speech synthesis, and the prosodic* and *intonation of Chinese in speech synthesis*.
-  2. During this period,l became proficient in the operation of Linux on the server and the running of code on  GPU using Python.
-
 
   
 # 🔥 News
