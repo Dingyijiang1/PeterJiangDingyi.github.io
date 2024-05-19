@@ -22,9 +22,9 @@ redirect_from:
 Hi, I am Dingyi Jiang. Presently, I am an Artificial Intelligence major bachelor and will graduate in 2024 summer, where I am in <a href='http://cic.tju.edu.cn/english/home.htm'>the College of Intelligence and Computing, Tianjin University</a>(天津大学智能与计算学部). I have several AI-related projects and internships. Notably, I participated in an exchange program during 2023 at <a href='https://cse.hkust.edu.hk/'>the Department of Computer Science and Technology at HKUST</a>(香港科技大学计算机科学与技术学院). I won two scholarships during my undergraduate years。\
 <img src="images/TJU.png" width = "100" height = "100" alt="" align=center />
 <img src="images/HKUST.png" width = "230" height = "170" alt="" align=center />  
-<img src="images/Western.png" width = "100" height = "100" alt="" align=center /> 
 
 # 💬I will join <a href='https://sites.google.com/site/borriewang/'>Boyu Wang's lab</a> as a Ph.D. at <a href='https://www.uwo.ca/'>Western University</a> in fall, 2024. 
+
 
 # Research interests:
 1. Machine learning: domain generalization, transfer learning, semi-supervised learning, federated learning, and related applications.
