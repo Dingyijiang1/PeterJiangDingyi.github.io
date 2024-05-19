@@ -38,7 +38,7 @@ Hi, I am Dingyi Jiang. Presently, I am an Artificial Intelligence major bachelor
 
 
 # 💻 Internships 
-- *2023.06 - 2023.12*, LLM Intern, [Frontis](https://frontis.cn/), China.
+- *2023.06 - 2023.12*, LLM Intern, [Frontis（衔远科技）](https://frontis.cn/), China.
   1. Responsible for uplifting the performance of LLMs by SFT using the Slurm cluster.
   2. Given that the few-shot capability of LLMs is far superior to their zero-shot capability, we have studied the application of <a href='https://github.com/mechsihao/FaissSearcher'>search algorithms</a> in commercial real-time user interactions to provide pre-prepared examples to the LLM in order to enhance the model's performance.
   3. Conduct data analysis and data cleaning for Llama large model SFT and pretraining, including manual sampling, multi-threaded character-level processing, and quality and coherence evaluation using the Bert model.
@@ -93,7 +93,7 @@ Because my first two years at Tianjin University were studying applied chemistry
 <img src="images/toefl.png" width = "900" height = "170" alt="" align=center /> 
 -->
 
-# 📝 Rescearchs 
+# 📝 Researchs 
 
 - *2022.04 - 2023.05* Acted as Leader in Municipal College Students Innovation and Entrepreneurship Training Program， *Intelligent Visualization of the Attributes of the Global Burden of Disease*, supervised by Professor <a href='http://geoanalytics.tju.edu.cn/jieli'>Jie Li</a> and <a href='https://www.ai.pku.edu.cn/info/1140/2160.htm'>Dr. Liang Zhou</a>.
   
