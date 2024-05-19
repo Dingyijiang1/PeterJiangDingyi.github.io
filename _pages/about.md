@@ -23,7 +23,7 @@ Hi, I am Dingyi Jiang. Presently, I am an Artificial Intelligence major bachelor
 <img src="images/TJU.png" width = "100" height = "100" alt="" align=center />
 <img src="images/HKUST.png" width = "230" height = "170" alt="" align=center />  
 
-# 💬I will join <a href='https://sites.google.com/site/borriewang/'>Boyu Wang's lab</a> as a Ph.D. at <a href='https://www.uwo.ca/'>Western University</a> in fall, 2024. 
+# 💬I will join <a href='https://sites.google.com/site/borriewang/'>Boyu Wang's lab</a> as a Ph.D. at <a href='https://www.uwo.ca/'>Western University</a> in the fall of 2024. 
 
 
 # Research interests:
