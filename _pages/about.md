@@ -23,26 +23,30 @@ Hi, I am Dingyi Jiang. Presently, I am an Artificial Intelligence major bachelor
 <img src="images/TJU.png" width = "100" height = "100" alt="" align=center />
 <img src="images/HKUST.png" width = "230" height = "170" alt="" align=center />  
 
-# 💬I will be a fast-track Ph.D. with <a href='https://sites.google.com/site/borriewang/'>Boyu Wang</a> at <a href='https://www.uwo.ca/'>the University of Western Ontario</a> in fall, 2024. Currently, my research interests including transfer learning algorithms and LLM.
+# Research interests:
+1. Machine learning: domain generalization, transfer learning, semi-supervised learning, federated learning, and related applications.
+2. Large language models: LLM evaluation and enhancement.
+
+# 💬I will join <a href='https://sites.google.com/site/borriewang/'>Boyu Wang</a> as a Ph.D. student at <a href='https://www.uwo.ca/'>the University of Western Ontario</a> in fall, 2024. 
 
 # 📖 Education
 - *2021.09 - now*,  Undergraduate, Tianjin University, Artificial Intelligence
 - *2023.01 - 2023.06*, Exchange Student, HKUST, Computer Science
 - *2019.09 - 2021.06*, Undergraduate, Tianjin University, Applied Chemistry (Changed Major)
 
-
 # 💻 Internships 
 - *2023.06 - 2023.12*, LLM Intern, [Frontis](https://frontis.cn/), China.
   1. Responsible for large model fine-tuning (supervised fine-tuning) and pretraining using the Slurm cluster.
-  2. Conduct data analysis and data cleaning for Llama large model SFT and pretraining, including manual sampling, multi-threaded character-level processing, and quality and coherence evaluation using the Bert model.
-  3. Perform benchmark evaluations and ranking for large models.
+  2. Given that the few-shot capability of LLMs is far superior to their zero-shot capability, we have studied the application of <a href='https://github.com/mechsihao/FaissSearcher'>search algorithms</a> in commercial real-time user interactions to provide pre-prepared examples to the LLM in order to enhance the model's performance.
+  3. Conduct data analysis and data cleaning for Llama large model SFT and pretraining, including manual sampling, multi-threaded character-level processing, and quality and coherence evaluation using the Bert model.
+  4. Perform benchmark evaluations and ranking for large models.
     
 - *2021.06 - 2021.09*, AI Intern, [AI Cyber](https://www.aicyber.com/), China.
   1. Provide deep learning experiments and slides for Tianjin college students. My projects included *CNN, HMM, quality assessment in speech synthesis, and the prosodic* and *intonation of Chinese in speech synthesis*.
   2. During this period,l became proficient in the operation of Linux on the server and the running of code on  GPU using Python.
 
 
-<p>
+<!--
 # 📖 Study Performance
 <a href='https://peterjiangdingyi.github.io/transcripts.github.io/main.html'>Click Here to Visit My Overall GPA.</a>
 
@@ -84,7 +88,7 @@ Because my first two years at Tianjin University were studying applied chemistry
 **TOEFL Score**
 
 <img src="images/toefl.png" width = "900" height = "170" alt="" align=center /> 
-</p>
+-->
 
 # 📝 Rescearchs 
 
@@ -120,16 +124,7 @@ Because my first two years at Tianjin University were studying applied chemistry
 <img src="images/standford_online.jpg" width = "250" height = "200" alt="" align=center />  
 
   
-# 🔥 News
-- *2023.06*: &nbsp;🔥 Start a Large Language Model internship at Frontis Ltd., Beijing!
-- *2023.05*: &nbsp;🔥Complete my one-semester exchange program at HKUST!
-- *2023.05*: &nbsp; Finish our college Innovative project *Intelligent Visualization of the Attributes of the Global Burden of Disease*, which has been recognized with a municipal award!
-- *2023.05*: &nbsp; Achieved a full score on the final project presentation *Improvement of the state-of-the-art graph neural transformer model* for the postgraduate course *Advanced Deep Learning Architectures and their Applications* with groupmate Martin Rektoris, instructed by Dr. Qifeng Chen at HKUST!
-- *2023.01*: &nbsp; Begin my exchange program at HKUST. I enrolled in AI-related courses, including the undergraduate course *Large-Scale Deep Perception, Localization, and Planning for Autonomous Vehicles* and the Postgraduate course *Advanced Deep Learning Architectures and their Applications*, *Computer Vision*.
-- *2022.12*: &nbsp;🔥 Received a nomination to attend an academic exchange program at HKUST. It is an exceptional privilege to be one of the two nominees from Tianjin University!
-- *2022.09*: &nbsp; Become a  research assistant of the "Intelligent Fire Protection" project led by Prof. Liu Yang at Tianjin University. In this project, I am responsible for developing AI algorithms.
-- *2022.04*: &nbsp; Appointed as the leader of the "Intelligent Visualization of the Attributes of the Global Burden of Disease" innovative project, which is supervised by Dr. Jie Li.
-- *2022.04*: &nbsp; Joined the Visualization Lab at Tianjin University, which is under the supervision of Dr. Jie Li.
+
 
 
   
