@@ -38,7 +38,7 @@ Hi, I am Dingyi Jiang. Presently, I am an Artificial Intelligence major bachelor
 # 💬 Paper
   Enhancing Generalization in Chain of Thought Reasoning for Smaller Models: Declined by AAAI 2025 with scores of 4 and 5. Currently under revision.
 # 💻 Internships 
-- *2024.09 - Now*, LLM Intern, [Baidu](https://www.baidu.com/), China.
+- *2024.09 - Now*, LLM algorithm researcher, [Baidu](https://www.baidu.com/), China.
   1. Focus on developing strategies aligned with Baidu’s core dual-engine (search + feed) business model, enhancing the end-to-end feed recommendation experience and providing platform-based recommendation services.
 	2. Conduct research on cutting-edge technologies in data mining and statistical learning, applying them to solve and optimize real-world problems.
 	3. Develop large-scale machine learning algorithms and their parallel implementations, advancing core technologies for extensive machine learning applications.
