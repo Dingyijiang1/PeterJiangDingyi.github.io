@@ -25,9 +25,6 @@ Hi, I am Dingyi Jiang. Presently, I am an Artificial Intelligence major bachelor
 
 # djiang94 at uwo dot ca
 
-//# 💬I will join <a href='https://sites.google.com/site/borriewang/'>Boyu Wang's lab</a> as a Ph.D. at <a href='https://www.uwo.ca/'>Western University</a> in the fall of 2024. 
-
-
 # Research interests:
 1. Machine learning: domain generalization, transfer learning, semi-supervised learning, federated learning, and related applications.
 2. Large language models: LLM evaluation and enhancement. 
