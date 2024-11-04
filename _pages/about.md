@@ -26,7 +26,7 @@ Hi, I am Dingyi Jiang. Presently, I am an Artificial Intelligence major bachelor
 # djiang94 at uwo dot ca
 
 # Research interests:
-1. Machine learning: domain generalization, transfer learning, semi-supervised learning, federated learning, and related applications.
+1. Machine learning: Transfer learning, semi-supervised learning, federated learning, and related applications.
 2. Large language models: LLM evaluation and enhancement. 
 
 
