@@ -25,7 +25,7 @@ Hi, I am Dingyi Jiang. Presently, I am an Artificial Intelligence major bachelor
 
 # djiang94 at uwo dot ca
 
-# 💬I will join <a href='https://sites.google.com/site/borriewang/'>Boyu Wang's lab</a> as a Ph.D. at <a href='https://www.uwo.ca/'>Western University</a> in the fall of 2024. 
+//# 💬I will join <a href='https://sites.google.com/site/borriewang/'>Boyu Wang's lab</a> as a Ph.D. at <a href='https://www.uwo.ca/'>Western University</a> in the fall of 2024. 
 
 
 # Research interests:
@@ -34,12 +34,19 @@ Hi, I am Dingyi Jiang. Presently, I am an Artificial Intelligence major bachelor
 
 
 # 📖 Education
-- *2021.09 - now*,  Undergraduate, Tianjin University, Artificial Intelligence
+- *2021.09 - 2024.07,  Undergraduate, Tianjin University, Artificial Intelligence
 - *2023.01 - 2023.06*, Exchange Student, HKUST, Computer Science
 - *2019.09 - 2021.06*, Undergraduate, Tianjin University, Applied Chemistry (Changed Major)
 
-
+# 💬 Paper
+  Enhancing Generalization in Chain of Thought Reasoning for Smaller Models: Declined by AAAI 2025 with scores of 4 and 5. Currently under revision.
 # 💻 Internships 
+- *2024.09 - Now*, LLM Intern, [Baidu](https://www.baidu.com/), China.
+  1. Focus on developing strategies aligned with Baidu’s core dual-engine (search + feed) business model, enhancing the end-to-end feed recommendation experience and providing platform-based recommendation services.
+	2. Conduct research on cutting-edge technologies in data mining and statistical learning, applying them to solve and optimize real-world problems.
+	3. Develop large-scale machine learning algorithms and their parallel implementations, advancing core technologies for extensive machine learning applications.
+	4. Gain a deep understanding of user needs and behavior patterns to enhance recommendation effectiveness using advanced generative AI techniques (e.g., deep learning, natural language processing), thereby improving user experience and platform engagement.
+
 - *2023.06 - 2023.12*, LLM Intern, [Frontis（衔远科技）](https://frontis.cn/), China.
   1. Responsible for uplifting the performance of LLMs by SFT using the Slurm cluster.
   2. Given that the few-shot capability of LLMs is far superior to their zero-shot capability, we have studied the application of <a href='https://github.com/mechsihao/FaissSearcher'>search algorithms</a> in commercial real-time user interactions to provide pre-prepared examples to the LLM in order to enhance the model's performance.
