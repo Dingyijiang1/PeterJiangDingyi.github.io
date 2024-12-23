@@ -23,8 +23,6 @@ Hi, I am Dingyi Jiang. Presently, I am an Artificial Intelligence major bachelor
 <img src="images/TJU.png" width = "100" height = "100" alt="" align=center />
 <img src="images/HKUST.png" width = "230" height = "170" alt="" align=center />  
 
-# djiang94 at uwo dot ca
-
 # Research interests:
 1. Machine learning: Transfer learning, semi-supervised learning, federated learning, and related applications.
 2. Large language models: LLM evaluation and enhancement. 
