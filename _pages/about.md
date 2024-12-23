@@ -19,7 +19,7 @@ redirect_from:
 
 # 💬About me
 
-Hi, I am Dingyi Jiang. Presently, I am an Artificial Intelligence major bachelor and will graduate in 2024 summer, where I am in <a href='http://cic.tju.edu.cn/english/home.htm'>the College of Intelligence and Computing, Tianjin University</a>(天津大学智能与计算学部). I have several AI-related projects and internships. Notably, I participated in an exchange program during 2023 at <a href='https://cse.hkust.edu.hk/'>the Department of Computer Science and Technology at HKUST</a>(香港科技大学计算机科学与技术学院). I won two scholarships during my undergraduate years。\
+Hi, I am Dingyi Jiang. Presently, I am an Artificial Intelligence major bachelor. I graduated from <a href='http://cic.tju.edu.cn/english/home.htm'>the College of Intelligence and Computing, Tianjin University</a>(天津大学智能与计算学部) in 2024 summer. I have several AI-related projects and work experiences. Notably, I participated in an exchange program during 2023 at <a href='https://cse.hkust.edu.hk/'>the Department of Computer Science and Technology at HKUST</a>(香港科技大学计算机科学与技术学院). I won two scholarships during my undergraduate years。\
 <img src="images/TJU.png" width = "100" height = "100" alt="" align=center />
 <img src="images/HKUST.png" width = "230" height = "170" alt="" align=center />  
 
@@ -40,9 +40,8 @@ Hi, I am Dingyi Jiang. Presently, I am an Artificial Intelligence major bachelor
 # 💻 Internships 
 - *2024.09 - Now*, LLM algorithm researcher, [Baidu](https://www.baidu.com/), China.
   1. Focus on developing strategies aligned with Baidu’s core dual-engine (search + feed) business model, enhancing the end-to-end feed recommendation experience and providing platform-based recommendation services.
-	2. Conduct research on cutting-edge technologies in data mining and statistical learning, applying them to solve and optimize real-world problems.
-	3. Develop large-scale machine learning algorithms and their parallel implementations, advancing core technologies for extensive machine learning applications.
-	4. Gain a deep understanding of user needs and behavior patterns to enhance recommendation effectiveness using advanced generative AI techniques (e.g., deep learning, natural language processing), thereby improving user experience and platform engagement.
+  2. Conduct research on cutting-edge technologies in data mining and statistical learning, applying them to solve and optimize real-world problems.
+  3. Distributed computing. Using google mapper-reducer architecture for data producing and data analysing.
 
 - *2023.06 - 2023.12*, LLM Intern, [Frontis（衔远科技）](https://frontis.cn/), China.
   1. Responsible for uplifting the performance of LLMs by SFT using the Slurm cluster.
