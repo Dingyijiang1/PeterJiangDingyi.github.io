@@ -52,7 +52,7 @@ Hi, I am Dingyi Jiang. Presently, I am an Artificial Intelligence major bachelor
   2. During this period,l became proficient in the operation of Linux on the server and the running of code on  GPU using Python.
 
 
-<!--
+
 # 📖 Study Performance
 <a href='https://peterjiangdingyi.github.io/transcripts.github.io/main.html'>Click Here to Visit My Overall GPA.</a>
 
@@ -94,7 +94,7 @@ Because my first two years at Tianjin University were studying applied chemistry
 **TOEFL Score**
 
 <img src="images/toefl.png" width = "900" height = "170" alt="" align=center /> 
--->
+
 
 # 📝 Researchs 
 
